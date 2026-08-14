@@ -1,0 +1,21 @@
+{
+  "high_v3_rows": 218,
+  "input": "results/task_e_target_activation/target_activation_all_score_v3_with_target.tsv",
+  "note": "Gap labels identify why high-confidence v3 candidates did not pass the pilot target-expression proxy. They are diagnostic, not biological negatives.",
+  "outputs": {
+    "reason_summary": "results/task_e_target_activation/target_activation_high_v3_gap_reason_summary.tsv",
+    "summary": "results/task_e_target_activation/target_activation_high_v3_gap_summary.json",
+    "support_by_dataset": "results/task_e_target_activation/target_activation_high_v3_support_by_dataset.tsv",
+    "support_by_pathway": "results/task_e_target_activation/target_activation_high_v3_support_by_pathway.tsv",
+    "unsupported_candidates": "results/task_e_target_activation/target_activation_high_v3_gap_candidates.tsv"
+  },
+  "reason_counts": {
+    "low_percentile_and_low_enrichment": 50,
+    "low_receiver_enrichment": 31,
+    "low_receiver_percentile": 3,
+    "target_supported": 134
+  },
+  "run_id": "20260709_2110_target-gap-audit",
+  "target_supported_high_v3_rows": 134,
+  "unsupported_high_v3_rows": 84
+}

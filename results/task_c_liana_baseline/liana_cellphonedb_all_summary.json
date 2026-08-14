@@ -1,0 +1,24 @@
+{
+  "candidate_rows": 6177,
+  "method": "liana_cellphonedb_pilot",
+  "note": "LIANA CellPhoneDB-style pilot baseline using coarse computational spot compartments; not a final benchmark result.",
+  "outputs": {
+    "candidates": "results/task_c_liana_baseline/liana_cellphonedb_all_candidates.tsv",
+    "failures": "results/task_c_liana_baseline/liana_cellphonedb_all_failures.tsv",
+    "sample_summary": "results/task_c_liana_baseline/liana_cellphonedb_all_sample_summary.tsv"
+  },
+  "parameters": {
+    "expr_prop": 0.05,
+    "max_samples": 999,
+    "min_cells": 3,
+    "n_jobs": 2,
+    "n_perms": 100,
+    "output_prefix": "liana_cellphonedb_all",
+    "sample_id": [],
+    "seed": 1337
+  },
+  "run_id": "20260709_1845_liana-all-baseline",
+  "samples_failed": 0,
+  "samples_requested": 34,
+  "samples_succeeded": 34
+}

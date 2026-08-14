@@ -1,0 +1,42 @@
+{
+  "candidate_rows": 4225,
+  "decision": "Do not publish a formal v4 score from this grid alone.",
+  "decision_basis": "CellChat integration is evaluated as score sensitivity, but database breadth, the VEGF support failure and lack of independent target-gene calibration prevent selecting a manuscript-grade v4 formula.",
+  "formula_boundary": "Reweighted scenarios preserve the relative non-method evidence weights while assigning 0.10, 0.20 or 0.30 total weight to equal COMMOT, LIANA and CellChat support.",
+  "outputs": {
+    "candidates": "results/task_e_cellchat_v4_sensitivity/cellchat_v4_sensitivity_candidates.tsv.gz",
+    "scenarios": "results/task_e_cellchat_v4_sensitivity/cellchat_v4_sensitivity_scenarios.tsv",
+    "transitions": "results/task_e_cellchat_v4_sensitivity/cellchat_v4_sensitivity_transitions.tsv"
+  },
+  "primary_diagnostic_metrics": {
+    "consistency_weight": 0.2,
+    "demoted_rows": 422,
+    "high_all_null_pass_fraction": 1.0,
+    "high_cellchat_support_fraction": 1.0,
+    "high_cellchat_supported_rows": 159,
+    "high_commot_liana_fraction": 1.0,
+    "high_gate": "all_three",
+    "high_jaccard_v3": 0.7293577981651376,
+    "high_overlap_v3": 159,
+    "high_recall_v3": 0.7293577981651376,
+    "high_rows": 159,
+    "kind": "reweighted",
+    "low_rows": 2392,
+    "mean_score": 0.5274215839053255,
+    "median_score": 0.513203,
+    "medium_rows": 1674,
+    "promoted_rows": 2,
+    "scenario": "three_method_w20_strict",
+    "score_spearman_v3": 0.9910071350653452,
+    "tier_changed_rows": 424
+  },
+  "primary_diagnostic_scenario": "three_method_w20_strict",
+  "reference_tiers": {
+    "high": 218,
+    "low": 2031,
+    "medium": 1976
+  },
+  "run_id": "20260713_1615_cellchat-v4-sensitivity",
+  "scenario_count": 8,
+  "status": "completed"
+}

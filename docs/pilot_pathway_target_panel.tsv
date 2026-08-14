@@ -1,0 +1,73 @@
+pathway	gene	role	notes
+TGFB	SERPINE1	response	canonical TGF-beta response marker
+TGFB	SMAD7	response	feedback response marker
+TGFB	CTGF	response	legacy symbol for CCN2; may be absent in some matrices
+TGFB	CCN2	response	TGF-beta-associated matrix response
+TGFB	COL1A1	matrix_response	stromal matrix response proxy
+TGFB	COL1A2	matrix_response	stromal matrix response proxy
+TGFB	FN1	matrix_response	matrix remodeling proxy
+TGFB	ACTA2	matrix_response	myofibroblast response proxy
+CXCL chemokine	CXCL9	response	interferon-associated chemokine marker
+CXCL chemokine	CXCL10	response	interferon-associated chemokine marker
+CXCL chemokine	CXCL11	response	interferon-associated chemokine marker
+CXCL chemokine	CXCR3	receptor_axis	axis marker
+CXCL chemokine	CXCR4	receptor_axis	axis marker
+CXCL chemokine	ISG15	response	interferon response proxy
+CXCL chemokine	STAT1	response	interferon response proxy
+CCL chemokine	CCL2	response	monocyte chemokine axis marker
+CCL chemokine	CCL3	response	monocyte chemokine axis marker
+CCL chemokine	CCL4	response	monocyte chemokine axis marker
+CCL chemokine	CCR2	receptor_axis	axis marker
+CCL chemokine	LST1	myeloid_response	myeloid response proxy
+CCL chemokine	IL1B	inflammatory_response	inflammatory response proxy
+VEGF	KDR	receptor_axis	endothelial VEGF axis marker
+VEGF	FLT1	receptor_axis	endothelial VEGF axis marker
+VEGF	VWF	endothelial_response	endothelial marker
+VEGF	PECAM1	endothelial_response	endothelial marker
+VEGF	PLVAP	endothelial_response	angiogenic endothelium proxy
+VEGF	ENG	endothelial_response	endothelial activation proxy
+VEGF	ESAM	endothelial_response	endothelial marker
+SPP1	SPP1	axis_marker	axis marker
+SPP1	CD44	receptor_axis	axis marker
+SPP1	ITGAV	receptor_axis	integrin axis marker
+SPP1	ITGB1	receptor_axis	integrin axis marker
+SPP1	FN1	matrix_response	matrix interaction proxy
+SPP1	MMP9	matrix_response	matrix remodeling proxy
+MIF	CD74	receptor_axis	MIF receptor axis marker
+MIF	CXCR4	receptor_axis	MIF co-receptor axis marker
+MIF	CXCR2	receptor_axis	MIF co-receptor axis marker
+MIF	HLA-DRA	immune_response	antigen presentation proxy
+MIF	HLA-DRB1	immune_response	antigen presentation proxy
+MIF	NFKBIA	inflammatory_response	NF-kB response proxy
+MIF	IL1B	inflammatory_response	inflammatory response proxy
+NOTCH	HES1	response	canonical Notch response marker
+NOTCH	HEY1	response	canonical Notch response marker
+NOTCH	HEY2	response	canonical Notch response marker
+NOTCH	NOTCH1	receptor_axis	axis marker
+NOTCH	NOTCH2	receptor_axis	axis marker
+NOTCH	DLL4	ligand_axis	axis marker
+NOTCH	JAG1	ligand_axis	axis marker
+WNT	AXIN2	response	canonical WNT response marker
+WNT	LEF1	response	canonical WNT response marker
+WNT	TCF7	response	WNT/T cell state proxy
+WNT	DKK1	response	WNT feedback marker
+WNT	FZD5	receptor_axis	axis marker
+WNT	JUN	response	noncanonical response proxy
+WNT	FOS	response	response proxy
+EGF/ERBB	EGFR	receptor_axis	axis marker
+EGF/ERBB	EGR1	response	EGFR/MAPK immediate response proxy
+EGF/ERBB	FOS	response	EGFR/MAPK immediate response proxy
+EGF/ERBB	JUN	response	EGFR/MAPK immediate response proxy
+EGF/ERBB	DUSP6	response	MAPK response proxy
+EGF/ERBB	SPRY2	response	MAPK feedback proxy
+EGF/ERBB	AREG	ligand_axis	EGFR ligand axis marker
+EGF/ERBB	EREG	ligand_axis	EGFR ligand axis marker
+ECM-integrin	COL1A1	matrix_axis	matrix axis marker
+ECM-integrin	COL1A2	matrix_axis	matrix axis marker
+ECM-integrin	COL3A1	matrix_axis	matrix axis marker
+ECM-integrin	FN1	matrix_axis	matrix axis marker
+ECM-integrin	ITGA2	receptor_axis	integrin axis marker
+ECM-integrin	ITGAV	receptor_axis	integrin axis marker
+ECM-integrin	ITGB1	receptor_axis	integrin axis marker
+ECM-integrin	ACTA2	matrix_response	myofibroblast proxy
+ECM-integrin	TAGLN	matrix_response	myofibroblast proxy

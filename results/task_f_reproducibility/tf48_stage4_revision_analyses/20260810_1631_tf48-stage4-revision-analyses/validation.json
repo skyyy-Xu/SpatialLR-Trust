@@ -1,0 +1,8 @@
+{
+  "authorized_next_action": "stage4_bilingual_manuscript_and_response_revision",
+  "checks": 22,
+  "failed": 0,
+  "passed": 22,
+  "source_commit": "d5e13a5b94c22a1073a650e7be1fb875128528f0",
+  "status": "PASS_TF48_STAGE4_REVISION_ANALYSES"
+}

@@ -1,0 +1,5 @@
+dataset	cancer	rows	target_supported	unsupported	target_supported_fraction
+GSE292299	NSCLC	101	53	48	0.5248
+GSE283052	colorectal cancer	75	54	21	0.7200
+GSE300445	melanoma	29	16	13	0.5517
+GSE292299	DLBCL	13	11	2	0.8462

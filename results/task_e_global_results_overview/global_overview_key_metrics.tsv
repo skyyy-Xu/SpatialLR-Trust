@@ -1,0 +1,11 @@
+metric	value
+minimal_input_samples	34
+marker_baseline_candidates	4225
+tri_method_union	7346
+all_three_methods	2924
+all_null_gates	225
+high_v3	218
+target_supported_high_v3	134
+top40_public_evidence_review	40
+same_cancer_axes	7
+same_sample_validation_upgrades	0

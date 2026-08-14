@@ -1,0 +1,21 @@
+{
+  "both_methods_rows": 3301,
+  "commot_only_rows": 2991,
+  "commot_rows": 6292,
+  "methods": [
+    "stdlib_marker_lr_pilot",
+    "commot_pilot_v1"
+  ],
+  "note": "Method-consistency bridge between internal stdlib pilot and COMMOT pilot-parameter baseline; not final benchmark evidence.",
+  "outputs": {
+    "by_dataset": "results/task_c_method_consistency/method_consistency_by_dataset.tsv",
+    "by_pathway": "results/task_c_method_consistency/method_consistency_by_pathway.tsv",
+    "by_sample": "results/task_c_method_consistency/method_consistency_by_sample.tsv",
+    "pair_support": "results/task_c_method_consistency/method_consistency_pair_support.tsv"
+  },
+  "overlap_fraction_of_union": 0.45745565410199557,
+  "run_id": "20260709_1750_method-consistency",
+  "stdlib_only_rows": 924,
+  "stdlib_rows": 4225,
+  "union_rows": 7216
+}

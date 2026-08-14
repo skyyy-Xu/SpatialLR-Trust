@@ -1,0 +1,5 @@
+target_gap_reason	rows	mean_v3_score
+target_supported	134	0.909994
+low_percentile_and_low_enrichment	50	0.897690
+low_receiver_enrichment	31	0.906226
+low_receiver_percentile	3	0.904594

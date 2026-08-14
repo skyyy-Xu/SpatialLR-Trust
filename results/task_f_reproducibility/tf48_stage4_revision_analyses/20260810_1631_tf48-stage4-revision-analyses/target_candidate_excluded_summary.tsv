@@ -1,0 +1,11 @@
+metric	value
+rows	4225
+overlap_genes	18
+original_supported_rows	1266
+excluded_supported_rows	1266
+support_flips	178
+high_original_supported_rows	134
+high_excluded_supported_rows	128
+mif_rows	322
+mif_original_supported_rows	107
+mif_excluded_supported_rows	100

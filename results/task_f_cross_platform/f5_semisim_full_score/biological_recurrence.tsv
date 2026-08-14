@@ -1,0 +1,77 @@
+condition_id	sender_compartment	receiver_compartment	ligand	receptor	biological_samples_total	biological_samples_joint_pass_all_replicates	technical_replicates_total	technical_replicates_joint_pass	resource_axis	joint_pair_null_recurrence_fraction	passed_biological_sample_ids	aggregation
+coordinate_mix_10	CAF/fibroblast	T/NK	CXCL12	CXCR4	3	0	15	2	1	0.0		all_5_technical_replicates
+coordinate_mix_10	endothelial	endothelial	PECAM1	PECAM1	3	0	15	4	1	0.0		all_5_technical_replicates
+coordinate_mix_10	tumor/epithelial	CAF/fibroblast	PTN	SDC4	3	0	15	1	1	0.0		all_5_technical_replicates
+coordinate_mix_10	tumor/epithelial	T/NK	CD274	PDCD1	3	2	15	14	1	0.6666666666666666	GSM7780154;GSM7780155	all_5_technical_replicates
+coordinate_mix_100	CAF/fibroblast	T/NK	CXCL12	CXCR4	3	0	15	0	1	0.0		all_5_technical_replicates
+coordinate_mix_100	endothelial	endothelial	PECAM1	PECAM1	3	0	15	0	1	0.0		all_5_technical_replicates
+coordinate_mix_100	tumor/epithelial	CAF/fibroblast	PTN	SDC4	3	0	15	0	1	0.0		all_5_technical_replicates
+coordinate_mix_100	tumor/epithelial	T/NK	CD274	PDCD1	3	0	15	0	1	0.0		all_5_technical_replicates
+coordinate_mix_25	CAF/fibroblast	T/NK	CXCL12	CXCR4	3	0	15	1	1	0.0		all_5_technical_replicates
+coordinate_mix_25	endothelial	endothelial	PECAM1	PECAM1	3	0	15	2	1	0.0		all_5_technical_replicates
+coordinate_mix_25	tumor/epithelial	CAF/fibroblast	PTN	SDC4	3	0	15	1	1	0.0		all_5_technical_replicates
+coordinate_mix_25	tumor/epithelial	T/NK	CD274	PDCD1	3	0	15	9	1	0.0		all_5_technical_replicates
+coordinate_mix_50	CAF/fibroblast	T/NK	CXCL12	CXCR4	3	0	15	1	1	0.0		all_5_technical_replicates
+coordinate_mix_50	endothelial	endothelial	PECAM1	PECAM1	3	0	15	0	1	0.0		all_5_technical_replicates
+coordinate_mix_50	tumor/epithelial	CAF/fibroblast	PTN	SDC4	3	0	15	0	1	0.0		all_5_technical_replicates
+coordinate_mix_50	tumor/epithelial	T/NK	CD274	PDCD1	3	0	15	1	1	0.0		all_5_technical_replicates
+expression_mix_10	CAF/fibroblast	T/NK	CXCL12	CXCR4	3	0	15	3	1	0.0		all_5_technical_replicates
+expression_mix_10	endothelial	endothelial	PECAM1	PECAM1	3	0	15	1	1	0.0		all_5_technical_replicates
+expression_mix_10	tumor/epithelial	CAF/fibroblast	PTN	SDC4	3	0	15	1	1	0.0		all_5_technical_replicates
+expression_mix_10	tumor/epithelial	T/NK	CD274	PDCD1	3	3	15	15	1	1.0	GSM7780153;GSM7780154;GSM7780155	all_5_technical_replicates
+expression_mix_25	CAF/fibroblast	T/NK	CXCL12	CXCR4	3	0	15	1	1	0.0		all_5_technical_replicates
+expression_mix_25	endothelial	endothelial	PECAM1	PECAM1	3	0	15	0	1	0.0		all_5_technical_replicates
+expression_mix_25	tumor/epithelial	CAF/fibroblast	PTN	SDC4	3	0	15	1	1	0.0		all_5_technical_replicates
+expression_mix_25	tumor/epithelial	T/NK	CD274	PDCD1	3	1	15	12	1	0.3333333333333333	GSM7780155	all_5_technical_replicates
+expression_mix_50	CAF/fibroblast	T/NK	CXCL12	CXCR4	3	0	15	0	1	0.0		all_5_technical_replicates
+expression_mix_50	endothelial	endothelial	PECAM1	PECAM1	3	0	15	0	1	0.0		all_5_technical_replicates
+expression_mix_50	tumor/epithelial	CAF/fibroblast	PTN	SDC4	3	0	15	0	1	0.0		all_5_technical_replicates
+expression_mix_50	tumor/epithelial	T/NK	CD274	PDCD1	3	0	15	10	1	0.0		all_5_technical_replicates
+fixed_fake_lr	CAF/fibroblast	T/NK	CCND1	ACTA2	3	0	15	0	0	0.0		not_applicable_fixed_fake
+fixed_fake_lr	endothelial	endothelial	MMP2	TPD52	3	0	15	0	0	0.0		not_applicable_fixed_fake
+fixed_fake_lr	tumor/epithelial	CAF/fibroblast	TFAP2A	CD27	3	0	15	0	0	0.0		not_applicable_fixed_fake
+fixed_fake_lr	tumor/epithelial	T/NK	IL2RA	LY86	3	0	15	0	0	0.0		not_applicable_fixed_fake
+hard_negative_ligand_only	CAF/fibroblast	T/NK	CXCL12	CXCR4	3	1	15	5	1	0.3333333333333333	GSM7780153	all_5_technical_replicates
+hard_negative_ligand_only	endothelial	endothelial	PECAM1	PECAM1	3	1	15	5	1	0.3333333333333333	GSM7780154	all_5_technical_replicates
+hard_negative_ligand_only	tumor/epithelial	CAF/fibroblast	PTN	SDC4	3	0	15	0	1	0.0		all_5_technical_replicates
+hard_negative_ligand_only	tumor/epithelial	T/NK	CD274	PDCD1	3	0	15	0	1	0.0		all_5_technical_replicates
+hard_negative_receptor_only	CAF/fibroblast	T/NK	CXCL12	CXCR4	3	0	15	4	1	0.0		all_5_technical_replicates
+hard_negative_receptor_only	endothelial	endothelial	PECAM1	PECAM1	3	1	15	5	1	0.3333333333333333	GSM7780154	all_5_technical_replicates
+hard_negative_receptor_only	tumor/epithelial	CAF/fibroblast	PTN	SDC4	3	0	15	0	1	0.0		all_5_technical_replicates
+hard_negative_receptor_only	tumor/epithelial	T/NK	CD274	PDCD1	3	0	15	2	1	0.0		all_5_technical_replicates
+hard_negative_reporter_absent	CAF/fibroblast	T/NK	CXCL12	CXCR4	3	1	15	5	1	0.3333333333333333	GSM7780153	all_5_technical_replicates
+hard_negative_reporter_absent	endothelial	endothelial	PECAM1	PECAM1	3	1	15	5	1	0.3333333333333333	GSM7780154	all_5_technical_replicates
+hard_negative_reporter_absent	tumor/epithelial	CAF/fibroblast	PTN	SDC4	3	0	15	2	1	0.0		all_5_technical_replicates
+hard_negative_reporter_absent	tumor/epithelial	T/NK	CD274	PDCD1	3	2	15	14	1	0.6666666666666666	GSM7780153;GSM7780155	all_5_technical_replicates
+hard_negative_spatial_separated	CAF/fibroblast	T/NK	CXCL12	CXCR4	3	1	15	5	1	0.3333333333333333	GSM7780153	all_5_technical_replicates
+hard_negative_spatial_separated	endothelial	endothelial	PECAM1	PECAM1	3	2	15	10	1	0.6666666666666666	GSM7780153;GSM7780154	all_5_technical_replicates
+hard_negative_spatial_separated	tumor/epithelial	CAF/fibroblast	PTN	SDC4	3	0	15	0	1	0.0		all_5_technical_replicates
+hard_negative_spatial_separated	tumor/epithelial	T/NK	CD274	PDCD1	3	0	15	0	1	0.0		all_5_technical_replicates
+label_mix_10	CAF/fibroblast	T/NK	CXCL12	CXCR4	3	0	15	0	1	0.0		all_5_technical_replicates
+label_mix_10	endothelial	endothelial	PECAM1	PECAM1	3	0	15	1	1	0.0		all_5_technical_replicates
+label_mix_10	tumor/epithelial	CAF/fibroblast	PTN	SDC4	3	0	15	3	1	0.0		all_5_technical_replicates
+label_mix_10	tumor/epithelial	T/NK	CD274	PDCD1	3	1	15	12	1	0.3333333333333333	GSM7780155	all_5_technical_replicates
+label_mix_25	CAF/fibroblast	T/NK	CXCL12	CXCR4	3	0	15	0	1	0.0		all_5_technical_replicates
+label_mix_25	endothelial	endothelial	PECAM1	PECAM1	3	0	15	0	1	0.0		all_5_technical_replicates
+label_mix_25	tumor/epithelial	CAF/fibroblast	PTN	SDC4	3	0	15	0	1	0.0		all_5_technical_replicates
+label_mix_25	tumor/epithelial	T/NK	CD274	PDCD1	3	1	15	11	1	0.3333333333333333	GSM7780155	all_5_technical_replicates
+label_mix_50	CAF/fibroblast	T/NK	CXCL12	CXCR4	3	0	15	4	1	0.0		all_5_technical_replicates
+label_mix_50	endothelial	endothelial	PECAM1	PECAM1	3	0	15	0	1	0.0		all_5_technical_replicates
+label_mix_50	tumor/epithelial	CAF/fibroblast	PTN	SDC4	3	0	15	0	1	0.0		all_5_technical_replicates
+label_mix_50	tumor/epithelial	T/NK	CD274	PDCD1	3	1	15	8	1	0.3333333333333333	GSM7780155	all_5_technical_replicates
+spike_high	CAF/fibroblast	T/NK	CXCL12	CXCR4	3	0	15	4	1	0.0		all_5_technical_replicates
+spike_high	endothelial	endothelial	PECAM1	PECAM1	3	0	15	4	1	0.0		all_5_technical_replicates
+spike_high	tumor/epithelial	CAF/fibroblast	PTN	SDC4	3	0	15	5	1	0.0		all_5_technical_replicates
+spike_high	tumor/epithelial	T/NK	CD274	PDCD1	3	3	15	15	1	1.0	GSM7780153;GSM7780154;GSM7780155	all_5_technical_replicates
+spike_low	CAF/fibroblast	T/NK	CXCL12	CXCR4	3	1	15	5	1	0.3333333333333333	GSM7780153	all_5_technical_replicates
+spike_low	endothelial	endothelial	PECAM1	PECAM1	3	1	15	5	1	0.3333333333333333	GSM7780154	all_5_technical_replicates
+spike_low	tumor/epithelial	CAF/fibroblast	PTN	SDC4	3	0	15	1	1	0.0		all_5_technical_replicates
+spike_low	tumor/epithelial	T/NK	CD274	PDCD1	3	2	15	13	1	0.6666666666666666	GSM7780153;GSM7780155	all_5_technical_replicates
+spike_medium	CAF/fibroblast	T/NK	CXCL12	CXCR4	3	1	15	5	1	0.3333333333333333	GSM7780153	all_5_technical_replicates
+spike_medium	endothelial	endothelial	PECAM1	PECAM1	3	0	15	4	1	0.0		all_5_technical_replicates
+spike_medium	tumor/epithelial	CAF/fibroblast	PTN	SDC4	3	0	15	2	1	0.0		all_5_technical_replicates
+spike_medium	tumor/epithelial	T/NK	CD274	PDCD1	3	1	15	13	1	0.3333333333333333	GSM7780155	all_5_technical_replicates
+unmodified_reference	CAF/fibroblast	T/NK	CXCL12	CXCR4	3	0	15	4	1	0.0		all_5_technical_replicates
+unmodified_reference	endothelial	endothelial	PECAM1	PECAM1	3	1	15	5	1	0.3333333333333333	GSM7780154	all_5_technical_replicates
+unmodified_reference	tumor/epithelial	CAF/fibroblast	PTN	SDC4	3	0	15	0	1	0.0		all_5_technical_replicates
+unmodified_reference	tumor/epithelial	T/NK	CD274	PDCD1	3	0	15	0	1	0.0		all_5_technical_replicates

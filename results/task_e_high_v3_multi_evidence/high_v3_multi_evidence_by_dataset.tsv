@@ -1,0 +1,5 @@
+dataset	cancer	high_v3_rows	cellchat_supported_rows	target_supported_rows	joint_supported_rows	joint_supported_fraction	cellchat_only_rows	target_only_rows	neither_rows	public_top40_checked_rows	same_cancer_axis_evidence_rows
+GSE283052	colorectal cancer	75	51	54	39	0.52	12	15	9	14	0
+GSE292299	DLBCL	13	9	11	7	0.5384615384615384	2	4	0	2	0
+GSE292299	NSCLC	101	76	53	47	0.46534653465346537	29	6	19	17	7
+GSE300445	melanoma	29	23	16	15	0.5172413793103449	8	1	5	7	0

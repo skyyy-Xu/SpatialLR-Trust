@@ -1,0 +1,16 @@
+tier	component	component_label	weight	mean_value	median_value	rows
+high_pilot_v3	null_support_mean	null support mean	0.4	0.9735161546330272	0.97941103	218
+high_pilot_v3	pilot_score_percentile	pilot score percentile	0.15	0.8195153950917431	0.858191285	218
+high_pilot_v3	recurrence_support	recurrence support	0.15	0.9615188581651376	1.0	218
+high_pilot_v3	annotation_quality	annotation quality	0.1	0.5	0.5	218
+high_pilot_v3	external_method_support_fraction	external method support fraction	0.2	1.0	1.0	218
+medium_pilot_v3	null_support_mean	null support mean	0.4	0.6284533877125505	0.64937803	1976
+medium_pilot_v3	pilot_score_percentile	pilot score percentile	0.15	0.61453277397166	0.64275568	1976
+medium_pilot_v3	recurrence_support	recurrence support	0.15	0.81708277104251	1.0	1976
+medium_pilot_v3	annotation_quality	annotation quality	0.1	0.5	0.5	1976
+medium_pilot_v3	external_method_support_fraction	external method support fraction	0.2	0.944331983805668	1.0	1976
+low_pilot_v3	null_support_mean	null support mean	0.4	0.3000094906971935	0.30363036	2031
+low_pilot_v3	pilot_score_percentile	pilot score percentile	0.15	0.3542732065549188	0.30397727	2031
+low_pilot_v3	recurrence_support	recurrence support	0.15	0.3183708073855243	0.22222222	2031
+low_pilot_v3	annotation_quality	annotation quality	0.1	0.5	0.5	2031
+low_pilot_v3	external_method_support_fraction	external method support fraction	0.2	0.6354012801575578	0.5	2031

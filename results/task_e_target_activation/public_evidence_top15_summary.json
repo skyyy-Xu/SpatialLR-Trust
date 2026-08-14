@@ -1,0 +1,24 @@
+{
+  "axis_counts": {
+    "COL1A1-ITGA2": 1,
+    "MIF-CD74": 9,
+    "SPP1-CD44": 2,
+    "SPP1-ITGAV": 3
+  },
+  "evidence_grade_counts": {
+    "broad_spp1_integrin_axis": 3,
+    "direct_axis_other_cancer": 7,
+    "direct_axis_same_cancer": 4,
+    "direct_ecm_receptor_other_cancer": 1
+  },
+  "input": "results/task_e_target_activation/target_activation_supported_high_v3_top40.tsv",
+  "note": "First-pass public evidence check using GEO pages and PubMed/E-utilities metadata. Evidence supports prioritization, not same-sample experimental proof.",
+  "outputs": {
+    "candidate_evidence": "results/task_e_target_activation/public_evidence_top15_candidates.tsv",
+    "sources": "results/task_e_target_activation/public_evidence_sources.tsv",
+    "summary": "results/task_e_target_activation/public_evidence_top15_summary.json"
+  },
+  "run_id": "20260709_2135_public-evidence-check",
+  "source_count": 13,
+  "top_n_checked": 15
+}

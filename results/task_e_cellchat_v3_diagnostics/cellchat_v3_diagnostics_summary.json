@@ -1,0 +1,41 @@
+{
+  "all_four_supported_rows": 797,
+  "all_null_gates_pass_rows": 225,
+  "at_least_three_methods_rows": 2942,
+  "boundary": "Descriptive sensitivity evidence. CellChat support does not change v3 scores or confidence tiers and is not experimental validation.",
+  "candidate_rows": 4225,
+  "cellchat_and_all_null_pass_rows": 159,
+  "cellchat_fraction_among_null_pass": 0.7066666666666667,
+  "cellchat_support_by_v3_tier": {
+    "high_pilot_v3": {
+      "cellchat_supported": 159,
+      "fraction": 0.7293577981651376,
+      "rows": 218
+    },
+    "low_pilot_v3": {
+      "cellchat_supported": 104,
+      "fraction": 0.05120630231413097,
+      "rows": 2031
+    },
+    "medium_pilot_v3": {
+      "cellchat_supported": 552,
+      "fraction": 0.2793522267206478,
+      "rows": 1976
+    }
+  },
+  "cellchat_support_fraction": 0.19289940828402366,
+  "cellchat_supported_rows": 815,
+  "high_vs_low_cellchat_support_fraction_ratio": 14.243516231474945,
+  "mean_v3_score": 0.5678081723076923,
+  "outputs": {
+    "by_dataset": "results/task_e_cellchat_v3_diagnostics/cellchat_support_by_dataset.tsv",
+    "by_null_gate": "results/task_e_cellchat_v3_diagnostics/cellchat_support_by_null_gate.tsv",
+    "by_pathway": "results/task_e_cellchat_v3_diagnostics/cellchat_support_by_pathway.tsv",
+    "by_tier": "results/task_e_cellchat_v3_diagnostics/cellchat_support_by_v3_tier.tsv",
+    "candidate_diagnostics": "results/task_e_cellchat_v3_diagnostics/cellchat_v3_candidate_diagnostics.tsv.gz"
+  },
+  "rows": 4225,
+  "run_id": "20260713_1535_cellchat-v3-consistency-diagnostics",
+  "status": "completed",
+  "support_rows_missing": 0
+}

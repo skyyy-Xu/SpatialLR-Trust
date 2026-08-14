@@ -1,0 +1,11 @@
+metric	value
+scored_candidate_rows	4225
+filtered_case_examples	3308
+filter_case_types	4
+external_supported_but_failed_null_gate	2706
+failed_all_three_null_gates	562
+raw_score_supported_but_no_external_method_support	36
+v2_high_downgraded_without_both_external_methods	4
+high_v3_candidate_rows	218
+high_v3_target_supported	134
+high_v3_target_unsupported	84

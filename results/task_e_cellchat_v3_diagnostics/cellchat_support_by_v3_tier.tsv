@@ -1,0 +1,4 @@
+v3_tier	candidate_rows	cellchat_supported_rows	cellchat_support_fraction	all_null_gates_pass_rows	cellchat_and_all_null_pass_rows	cellchat_fraction_among_null_pass	all_four_supported_rows	at_least_three_methods_rows	mean_v3_score
+high_pilot_v3	218	159	0.7293577981651376	218	159	0.7293577981651376	159	218	0.9065615779816514
+low_pilot_v3	2031	104	0.05120630231413097	0	0	0.0	92	961	0.3979806548498277
+medium_pilot_v3	1976	552	0.2793522267206478	7	0	0.0	546	1763	0.7049900779352227

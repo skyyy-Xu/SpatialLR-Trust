@@ -1,0 +1,5 @@
+scorer	score_column	native_callable_rows	common_callable_rows	native_selection_rule	native_selected_rows	native_true_positive_rows	native_false_positive_rows	native_empirical_fdp	comparison_boundary
+COMMOT	commot_score	1020	510	commot_detected=1	1001	779	222	0.2217782217782218	method-native scope is descriptive; head-to-head metrics use only common callable rows
+LIANA	liana_score	510	510	liana_detected=1	505	390	115	0.22772277227722773	method-native scope is descriptive; head-to-head metrics use only common callable rows
+CellChat	cellchat_score	1020	510	cellchat_detected=1	912	702	210	0.23026315789473684	method-native scope is descriptive; head-to-head metrics use only common callable rows
+SpatialLR-Trust	spatiallr_trust_score_f5_full	1020	510	frozen non-low tier	613	496	117	0.19086460032626426	method-native scope is descriptive; head-to-head metrics use only common callable rows

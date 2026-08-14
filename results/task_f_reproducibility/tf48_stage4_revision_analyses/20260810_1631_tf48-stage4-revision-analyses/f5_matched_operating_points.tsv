@@ -1,0 +1,65 @@
+universe	sample_id	replicate	scorer	score_column	callable_rows	top_k	selected_rows	true_positive_rows	false_positive_rows	precision_at_k	recall_at_k	tie_break	biological_unit
+common_three_method_labelled	GSM7780153	1	COMMOT	commot_score	34	4	4	4	0	1.0	0.15384615384615385	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780153	1	LIANA	liana_score	34	4	4	4	0	1.0	0.15384615384615385	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780153	1	CellChat	cellchat_score	34	4	4	3	1	0.75	0.11538461538461539	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780153	1	SpatialLR-Trust	spatiallr_trust_score_f5_full	34	4	4	3	1	0.75	0.11538461538461539	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780153	2	COMMOT	commot_score	34	4	4	4	0	1.0	0.15384615384615385	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780153	2	LIANA	liana_score	34	4	4	4	0	1.0	0.15384615384615385	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780153	2	CellChat	cellchat_score	34	4	4	3	1	0.75	0.11538461538461539	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780153	2	SpatialLR-Trust	spatiallr_trust_score_f5_full	34	4	4	3	1	0.75	0.11538461538461539	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780153	3	COMMOT	commot_score	34	4	4	4	0	1.0	0.15384615384615385	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780153	3	LIANA	liana_score	34	4	4	4	0	1.0	0.15384615384615385	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780153	3	CellChat	cellchat_score	34	4	4	2	2	0.5	0.07692307692307693	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780153	3	SpatialLR-Trust	spatiallr_trust_score_f5_full	34	4	4	3	1	0.75	0.11538461538461539	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780153	4	COMMOT	commot_score	34	4	4	3	1	0.75	0.11538461538461539	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780153	4	LIANA	liana_score	34	4	4	4	0	1.0	0.15384615384615385	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780153	4	CellChat	cellchat_score	34	4	4	2	2	0.5	0.07692307692307693	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780153	4	SpatialLR-Trust	spatiallr_trust_score_f5_full	34	4	4	3	1	0.75	0.11538461538461539	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780153	5	COMMOT	commot_score	34	4	4	4	0	1.0	0.15384615384615385	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780153	5	LIANA	liana_score	34	4	4	4	0	1.0	0.15384615384615385	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780153	5	CellChat	cellchat_score	34	4	4	3	1	0.75	0.11538461538461539	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780153	5	SpatialLR-Trust	spatiallr_trust_score_f5_full	34	4	4	3	1	0.75	0.11538461538461539	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780154	1	COMMOT	commot_score	34	4	4	4	0	1.0	0.15384615384615385	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780154	1	LIANA	liana_score	34	4	4	4	0	1.0	0.15384615384615385	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780154	1	CellChat	cellchat_score	34	4	4	2	2	0.5	0.07692307692307693	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780154	1	SpatialLR-Trust	spatiallr_trust_score_f5_full	34	4	4	3	1	0.75	0.11538461538461539	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780154	2	COMMOT	commot_score	34	4	4	4	0	1.0	0.15384615384615385	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780154	2	LIANA	liana_score	34	4	4	4	0	1.0	0.15384615384615385	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780154	2	CellChat	cellchat_score	34	4	4	3	1	0.75	0.11538461538461539	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780154	2	SpatialLR-Trust	spatiallr_trust_score_f5_full	34	4	4	3	1	0.75	0.11538461538461539	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780154	3	COMMOT	commot_score	34	4	4	4	0	1.0	0.15384615384615385	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780154	3	LIANA	liana_score	34	4	4	4	0	1.0	0.15384615384615385	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780154	3	CellChat	cellchat_score	34	4	4	2	2	0.5	0.07692307692307693	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780154	3	SpatialLR-Trust	spatiallr_trust_score_f5_full	34	4	4	3	1	0.75	0.11538461538461539	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780154	4	COMMOT	commot_score	34	4	4	4	0	1.0	0.15384615384615385	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780154	4	LIANA	liana_score	34	4	4	4	0	1.0	0.15384615384615385	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780154	4	CellChat	cellchat_score	34	4	4	2	2	0.5	0.07692307692307693	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780154	4	SpatialLR-Trust	spatiallr_trust_score_f5_full	34	4	4	3	1	0.75	0.11538461538461539	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780154	5	COMMOT	commot_score	34	4	4	4	0	1.0	0.15384615384615385	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780154	5	LIANA	liana_score	34	4	4	4	0	1.0	0.15384615384615385	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780154	5	CellChat	cellchat_score	34	4	4	2	2	0.5	0.07692307692307693	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780154	5	SpatialLR-Trust	spatiallr_trust_score_f5_full	34	4	4	3	1	0.75	0.11538461538461539	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780155	1	COMMOT	commot_score	34	4	4	4	0	1.0	0.15384615384615385	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780155	1	LIANA	liana_score	34	4	4	4	0	1.0	0.15384615384615385	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780155	1	CellChat	cellchat_score	34	4	4	2	2	0.5	0.07692307692307693	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780155	1	SpatialLR-Trust	spatiallr_trust_score_f5_full	34	4	4	3	1	0.75	0.11538461538461539	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780155	2	COMMOT	commot_score	34	4	4	4	0	1.0	0.15384615384615385	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780155	2	LIANA	liana_score	34	4	4	3	1	0.75	0.11538461538461539	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780155	2	CellChat	cellchat_score	34	4	4	2	2	0.5	0.07692307692307693	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780155	2	SpatialLR-Trust	spatiallr_trust_score_f5_full	34	4	4	4	0	1.0	0.15384615384615385	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780155	3	COMMOT	commot_score	34	4	4	4	0	1.0	0.15384615384615385	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780155	3	LIANA	liana_score	34	4	4	3	1	0.75	0.11538461538461539	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780155	3	CellChat	cellchat_score	34	4	4	2	2	0.5	0.07692307692307693	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780155	3	SpatialLR-Trust	spatiallr_trust_score_f5_full	34	4	4	3	1	0.75	0.11538461538461539	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780155	4	COMMOT	commot_score	34	4	4	4	0	1.0	0.15384615384615385	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780155	4	LIANA	liana_score	34	4	4	3	1	0.75	0.11538461538461539	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780155	4	CellChat	cellchat_score	34	4	4	2	2	0.5	0.07692307692307693	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780155	4	SpatialLR-Trust	spatiallr_trust_score_f5_full	34	4	4	3	1	0.75	0.11538461538461539	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780155	5	COMMOT	commot_score	34	4	4	4	0	1.0	0.15384615384615385	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780155	5	LIANA	liana_score	34	4	4	3	1	0.75	0.11538461538461539	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780155	5	CellChat	cellchat_score	34	4	4	2	2	0.5	0.07692307692307693	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	GSM7780155	5	SpatialLR-Trust	spatiallr_trust_score_f5_full	34	4	4	3	1	0.75	0.11538461538461539	condition_id,axis_id	sample_id; technical replicate retained within sample
+common_three_method_labelled	all	all	COMMOT	commot_score	510	4_per_sample_replicate	60	59	1	0.9833333333333333	0.15128205128205127	condition_id,axis_id	3 sections; 5 technical replicates per section
+common_three_method_labelled	all	all	LIANA	liana_score	510	4_per_sample_replicate	60	56	4	0.9333333333333333	0.14358974358974358	condition_id,axis_id	3 sections; 5 technical replicates per section
+common_three_method_labelled	all	all	CellChat	cellchat_score	510	4_per_sample_replicate	60	34	26	0.5666666666666667	0.08717948717948718	condition_id,axis_id	3 sections; 5 technical replicates per section
+common_three_method_labelled	all	all	SpatialLR-Trust	spatiallr_trust_score_f5_full	510	4_per_sample_replicate	60	46	14	0.7666666666666667	0.11794871794871795	condition_id,axis_id	3 sections; 5 technical replicates per section

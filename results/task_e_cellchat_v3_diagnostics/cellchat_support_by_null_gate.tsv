@@ -1,0 +1,3 @@
+null_gate_group	candidate_rows	cellchat_supported_rows	cellchat_support_fraction	all_null_gates_pass_rows	cellchat_and_all_null_pass_rows	cellchat_fraction_among_null_pass	all_four_supported_rows	at_least_three_methods_rows	mean_v3_score
+all_null_gates_pass	225	159	0.7066666666666667	225	159	0.7066666666666667	159	218	0.9022395511111111
+one_or_more_null_gates_fail	4000	656	0.164	0	0	0.0	638	2724	0.54899640725

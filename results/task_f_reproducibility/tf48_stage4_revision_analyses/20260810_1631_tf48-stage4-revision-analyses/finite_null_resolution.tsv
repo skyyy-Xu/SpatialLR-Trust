@@ -1,0 +1,7 @@
+analysis_layer	null_model	draws	plus_one_formula	minimum_attainable_p	grid_step	missing_background_rows	multiplicity_scope	interpretation
+pilot_v3	spatial_coordinate	50	(exceedances+1)/(50+1)	0.0196078431372549	0.0196078431372549	0	none; candidate-level pilot screen	finite sampled randomization screen conditional on retained data and null mechanism
+pilot_v3	compartment_label	30	(exceedances+1)/(30+1)	0.03225806451612903	0.03225806451612903	0	none; candidate-level pilot screen	finite sampled randomization screen conditional on retained data and null mechanism
+pilot_v3	expression_matched_fake_lr	100	(exceedances+1)/(100+1)	0.009900990099009901	0.009900990099009901	9	none; 9 candidates lack a usable matched background	finite sampled randomization screen conditional on retained data and null mechanism
+f5_semisim	spatial_coordinate	999	(exceedances+1)/(999+1)	0.001	0.001	0	BH within 49 directions per LR; secondary global BH across 833 rows	finite sampled randomization screen conditional on retained data and null mechanism
+f5_semisim	compartment_label	999	(exceedances+1)/(999+1)	0.001	0.001	0	BH within 49 directions per LR; secondary global BH across 833 rows	finite sampled randomization screen conditional on retained data and null mechanism
+f5_semisim	expression_matched_fake_lr	999	(exceedances+1)/(999+1)	0.001	0.001	0	BH within 49 directions per LR; secondary global BH across 833 rows	finite sampled randomization screen conditional on retained data and null mechanism

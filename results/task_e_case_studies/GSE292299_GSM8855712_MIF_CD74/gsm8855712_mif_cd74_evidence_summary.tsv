@@ -1,0 +1,24 @@
+field	value
+dataset	GSE292299
+sample_id	GSM8855712_NSCLC_P10
+candidate	tumor_like->tumor_like MIF-CD74
+case_priority_rank	1
+case_recommended_use	primary_case
+v3_score	0.939243
+manual_review_category	same_cancer_axis
+original_paper_evidence_upgrade	no_upgrade_keep_same_cancer_axis
+sample_stage	4
+sample_biopsy_site	brain
+sample_treatment_response	R
+matrix_shape	18120x8862x43704922
+spots_in_plot_table	8862
+annotation_path	data/processed/spot_annotations/20260708_1820_marker-annotation-all/GSE292299/GSM8855712_NSCLC_P10_spot_compartments.tsv.gz
+expression_path	data/processed/minimal_inputs/GSE292299/GSM8855712_NSCLC_P10/matrix.mtx.gz
+spatial_positions_path	data/processed/minimal_inputs/GSE292299/GSM8855712_NSCLC_P10/spatial/tissue_positions.csv
+target_genes_detected_list	CD74,CXCR4,CXCR2,NFKBIA,IL1B
+target_activation_support	1
+receiver_target_enrichment_from_task_e	11.615372
+receiver_target_percentile_from_task_e	1
+tumor_like_mean_mif_target_from_spot_table	2.0560543
+tumor_like_fraction_mif_cd74_both_positive	0.64030847
+interpretation_boundary	Plot-ready computational case-study data only; not same-sample experimental validation.

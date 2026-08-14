@@ -1,0 +1,121 @@
+method	dataset	sample_id	cancer	platform	sender_compartment	receiver_compartment	ligand	receptor	pathway	lr_means	cellphone_pvals	ligand_props	receptor_props
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	tumor_like	stroma_fibroblast	MIF	CD74	MIF	2.586211570190812	0.0	0.995787700084246	0.9949596774193549
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	ambiguous_or_low_signal	stroma_fibroblast	MIF	CD74	MIF	2.424925352504955	0.0	0.9833333333333333	0.9949596774193549
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	tumor_like	ambiguous_or_low_signal	SPP1	CD44	SPP1	2.3307254487681117	0.0	0.9359730412805392	0.9916666666666667
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	tumor_like	tumor_like	SPP1	CD44	SPP1	2.2914181290393376	0.0	0.9359730412805392	0.9991575400168492
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	stroma_fibroblast	tumor_like	COL1A1	ITGA2	ECM-integrin	2.2677569655898226	0.0	1.0	0.7388374052232519
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	stroma_fibroblast	stroma_fibroblast	COL1A1	ITGA2	ECM-integrin	2.227242119578303	0.0	1.0	0.4586693548387097
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	stroma_fibroblast	ambiguous_or_low_signal	COL1A1	ITGA2	ECM-integrin	2.2233529058987695	0.0	1.0	0.5083333333333333
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	tumor_like	stroma_fibroblast	SPP1	CD44	SPP1	2.218589012382881	0.0	0.9359730412805392	0.9889112903225806
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	stroma_fibroblast	stroma_fibroblast	MIF	CD74	MIF	2.194202363108162	0.0	0.9334677419354839	0.9949596774193549
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	ambiguous_or_low_signal	ambiguous_or_low_signal	SPP1	CD44	SPP1	2.1189860163929866	0.01	0.9472222222222222	0.9916666666666667
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	ambiguous_or_low_signal	tumor_like	SPP1	CD44	SPP1	2.0794895594835614	0.09	0.9472222222222222	0.9991575400168492
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	tumor_like	ambiguous_or_low_signal	MIF	CD74	MIF	2.0333353271039267	0.0	0.995787700084246	0.9888888888888889
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	ambiguous_or_low_signal	stroma_fibroblast	SPP1	CD44	SPP1	2.007003579976915	0.85	0.9472222222222222	0.9889112903225806
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	ambiguous_or_low_signal	ambiguous_or_low_signal	MIF	CD74	MIF	1.8718201977672715	0.01	0.9833333333333333	0.9888888888888889
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	tumor_like	stroma_fibroblast	SPP1	ITGAV	SPP1	1.84696120080881	0.0	0.9359730412805392	0.938508064516129
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	tumor_like	ambiguous_or_low_signal	SPP1	ITGAV	SPP1	1.8458281779590597	0.0	0.9359730412805392	0.9666666666666667
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	stroma_fibroblast	ambiguous_or_low_signal	SPP1	CD44	SPP1	1.8117406585696614	1.0	0.8084677419354839	0.9916666666666667
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	ambiguous_or_low_signal	tumor_like	COL1A1	ITGA2	ECM-integrin	1.8060948631526452	0.0	0.9944444444444445	0.7388374052232519
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	stroma_fibroblast	tumor_like	SPP1	CD44	SPP1	1.77219570837434	1.0	0.8084677419354839	0.9991575400168492
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	ambiguous_or_low_signal	stroma_fibroblast	COL1A1	ITGA2	ECM-integrin	1.7654234559523918	0.0	0.9944444444444445	0.4586693548387097
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	ambiguous_or_low_signal	ambiguous_or_low_signal	COL1A1	ITGA2	ECM-integrin	1.761619591843961	0.0	0.9944444444444445	0.5083333333333333
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	stroma_fibroblast	stroma_fibroblast	SPP1	CD44	SPP1	1.6998272956868643	1.0	0.8084677419354839	0.9889112903225806
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	tumor_like	tumor_like	SPP1	ITGAV	SPP1	1.695148286727449	0.0	0.9359730412805392	0.9721988205560236
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	stroma_fibroblast	ambiguous_or_low_signal	MIF	CD74	MIF	1.641033131232664	1.0	0.9334677419354839	0.9888888888888889
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	ambiguous_or_low_signal	stroma_fibroblast	SPP1	ITGAV	SPP1	1.635321768895139	0.0	0.9472222222222222	0.938508064516129
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	ambiguous_or_low_signal	ambiguous_or_low_signal	SPP1	ITGAV	SPP1	1.634053736353432	0.0	0.9472222222222222	0.9666666666666667
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	tumor_like	tumor_like	MIF	CD74	MIF	1.506883591161969	1.0	0.995787700084246	0.9292333614153327
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	ambiguous_or_low_signal	tumor_like	SPP1	ITGAV	SPP1	1.483225532689455	0.97	0.9472222222222222	0.9721988205560236
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	ambiguous_or_low_signal	tumor_like	MIF	CD74	MIF	1.3452080948484986	1.0	0.9833333333333333	0.9292333614153327
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	stroma_fibroblast	stroma_fibroblast	SPP1	ITGAV	SPP1	1.328144757509482	1.0	0.8084677419354839	0.938508064516129
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	stroma_fibroblast	ambiguous_or_low_signal	SPP1	ITGAV	SPP1	1.3268258675500861	1.0	0.8084677419354839	0.9666666666666667
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	stroma_fibroblast	tumor_like	SPP1	ITGAV	SPP1	1.1759707845237577	1.0	0.8084677419354839	0.9721988205560236
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	stroma_fibroblast	tumor_like	MIF	CD74	MIF	1.1144089695094042	1.0	0.9334677419354839	0.9292333614153327
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	stroma_fibroblast	stroma_fibroblast	TGFB1	TGFBR2	TGFB	0.8146215274899844	0.0	0.75	0.9576612903225806
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	tumor_like	tumor_like	COL1A1	ITGA2	ECM-integrin	0.7884929978149708	1.0	0.8980623420387531	0.7388374052232519
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	stroma_fibroblast	stroma_fibroblast	CXCL12	CXCR4	CXCL chemokine	0.7859771856169636	0.0	0.8709677419354839	0.7721774193548387
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	tumor_like	stroma_fibroblast	VEGFA	KDR	VEGF	0.7506071899160444	0.0	0.9435551811288964	0.48286290322580644
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	tumor_like	stroma_fibroblast	COL1A1	ITGA2	ECM-integrin	0.7476975287168122	1.0	0.8980623420387531	0.4586693548387097
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	tumor_like	ambiguous_or_low_signal	COL1A1	ITGA2	ECM-integrin	0.7439490584025108	1.0	0.8980623420387531	0.5083333333333333
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	stroma_fibroblast	ambiguous_or_low_signal	JAG1	NOTCH2	NOTCH	0.7362956453536329	0.0	0.8709677419354839	0.9111111111111111
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	stroma_fibroblast	stroma_fibroblast	JAG1	NOTCH2	NOTCH	0.7348915772119871	0.0	0.8709677419354839	0.8457661290322581
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	ambiguous_or_low_signal	stroma_fibroblast	TGFB1	TGFBR2	TGFB	0.7173188949772348	0.0	0.6805555555555556	0.9576612903225806
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	tumor_like	stroma_fibroblast	TGFB1	TGFBR2	TGFB	0.6759921751916638	0.0	0.6402695871946082	0.9576612903225806
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	tumor_like	ambiguous_or_low_signal	VEGFA	KDR	VEGF	0.6729951674752651	0.0	0.9435551811288964	0.4166666666666667
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	stroma_fibroblast	ambiguous_or_low_signal	CXCL12	CXCR4	CXCL chemokine	0.660755606303713	0.0	0.8709677419354839	0.6777777777777778
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	stroma_fibroblast	stroma_fibroblast	TGFB1	TGFBR1	TGFB	0.6399901630028715	0.0	0.75	0.8951612903225806
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	tumor_like	tumor_like	VEGFA	KDR	VEGF	0.6314607555978338	0.0	0.9435551811288964	0.2409435551811289
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	stroma_fibroblast	tumor_like	JAG1	NOTCH2	NOTCH	0.631353593941184	0.0	0.8709677419354839	0.8938500421229991
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	stroma_fibroblast	ambiguous_or_low_signal	TGFB1	TGFBR2	TGFB	0.6138270899174035	0.4	0.75	0.9361111111111111
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	ambiguous_or_low_signal	ambiguous_or_low_signal	JAG1	NOTCH2	NOTCH	0.6131986557986423	0.01	0.8861111111111111	0.9111111111111111
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	ambiguous_or_low_signal	stroma_fibroblast	JAG1	NOTCH2	NOTCH	0.611766362694352	0.0	0.8861111111111111	0.8457661290322581
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	stroma_fibroblast	tumor_like	TGFB1	TGFBR2	TGFB	0.6027817908605627	0.9	0.75	0.9561920808761584
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	stroma_fibroblast	ambiguous_or_low_signal	TGFB1	TGFBR1	TGFB	0.5756598570037998	0.0	0.75	0.9111111111111111
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	stroma_fibroblast	tumor_like	CXCL12	CXCR4	CXCL chemokine	0.5481886734175531	0.0	0.8709677419354839	0.37910699241786017
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	stroma_fibroblast	stroma_fibroblast	DLL4	NOTCH1	NOTCH	0.5446619267617264	0.0	0.19858870967741934	0.9344758064516129
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	ambiguous_or_low_signal	stroma_fibroblast	TGFB1	TGFBR1	TGFB	0.5426879281170832	0.0	0.6805555555555556	0.8951612903225806
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	tumor_like	ambiguous_or_low_signal	JAG1	NOTCH2	NOTCH	0.5364686592739107	1.0	0.7657961246840775	0.9111111111111111
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	tumor_like	stroma_fibroblast	JAG1	NOTCH2	NOTCH	0.5349972664379689	1.0	0.7657961246840775	0.8457661290322581
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	ambiguous_or_low_signal	stroma_fibroblast	CXCL12	CXCR4	CXCL chemokine	0.5257130143515231	0.0	0.6916666666666667	0.7721774193548387
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	ambiguous_or_low_signal	stroma_fibroblast	DLL4	NOTCH1	NOTCH	0.522979774111818	0.0	0.14444444444444443	0.9344758064516129
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	tumor_like	stroma_fibroblast	DLL4	NOTCH1	NOTCH	0.5166817286900406	0.0	0.11120471777590564	0.9344758064516129
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	ambiguous_or_low_signal	ambiguous_or_low_signal	TGFB1	TGFBR2	TGFB	0.5165485544218494	1.0	0.6805555555555556	0.9361111111111111
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	stroma_fibroblast	tumor_like	TGFB1	TGFBR1	TGFB	0.5158220692510945	0.0	0.75	0.9342881213142376
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	ambiguous_or_low_signal	tumor_like	JAG1	NOTCH2	NOTCH	0.5082721942322683	1.0	0.8861111111111111	0.8938500421229991
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	ambiguous_or_low_signal	tumor_like	TGFB1	TGFBR2	TGFB	0.505521153097073	1.0	0.6805555555555556	0.9561920808761584
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	tumor_like	stroma_fibroblast	TGFB1	TGFBR1	TGFB	0.5013865794579958	0.06	0.6402695871946082	0.8951612903225806
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	ambiguous_or_low_signal	ambiguous_or_low_signal	TGFB1	TGFBR1	TGFB	0.47837988535875237	0.89	0.6805555555555556	0.9111111111111111
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	tumor_like	ambiguous_or_low_signal	TGFB1	TGFBR2	TGFB	0.4752857037421078	1.0	0.6402695871946082	0.9361111111111111
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	tumor_like	tumor_like	TGFB1	TGFBR2	TGFB	0.464297495191877	1.0	0.6402695871946082	0.9561920808761584
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	tumor_like	ambiguous_or_low_signal	TGFB1	TGFBR1	TGFB	0.43711984982945057	1.0	0.6402695871946082	0.9111111111111111
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	tumor_like	tumor_like	JAG1	NOTCH2	NOTCH	0.4315856782302161	1.0	0.7657961246840775	0.8938500421229991
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	ambiguous_or_low_signal	stroma_fibroblast	VEGFA	KDR	VEGF	0.4217956460073207	1.0	0.8194444444444444	0.48286290322580644
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	ambiguous_or_low_signal	tumor_like	TGFB1	TGFBR1	TGFB	0.41855580529193687	1.0	0.6805555555555556	0.9342881213142376
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	stroma_fibroblast	ambiguous_or_low_signal	DLL4	NOTCH1	NOTCH	0.4090966221357435	1.0	0.19858870967741934	0.9472222222222222
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	ambiguous_or_low_signal	ambiguous_or_low_signal	CXCL12	CXCR4	CXCL chemokine	0.4005172333388555	0.92	0.6916666666666667	0.6777777777777778
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	stroma_fibroblast	tumor_like	DLL4	NOTCH1	NOTCH	0.3920423710864266	1.0	0.19858870967741934	0.9553496208930076
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	tumor_like	stroma_fibroblast	CXCL12	CXCR4	CXCL chemokine	0.38851283343992515	1.0	0.33361415332771693	0.7721774193548387
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	ambiguous_or_low_signal	ambiguous_or_low_signal	DLL4	NOTCH1	NOTCH	0.38743047404457326	1.0	0.14444444444444443	0.9472222222222222
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	tumor_like	ambiguous_or_low_signal	DLL4	NOTCH1	NOTCH	0.38117998714688633	1.0	0.11120471777590564	0.9472222222222222
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	tumor_like	tumor_like	TGFB1	TGFBR1	TGFB	0.37733123958744536	1.0	0.6402695871946082	0.9342881213142376
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	ambiguous_or_low_signal	tumor_like	DLL4	NOTCH1	NOTCH	0.3703872541043619	1.0	0.14444444444444443	0.9553496208930076
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	stroma_fibroblast	stroma_fibroblast	VEGFA	KDR	VEGF	0.3665423158561678	1.0	0.6491935483870968	0.48286290322580644
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	tumor_like	tumor_like	DLL4	NOTCH1	NOTCH	0.3641678836134704	1.0	0.11120471777590564	0.9553496208930076
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	tumor_like	stroma_fibroblast	HBEGF	EGFR	EGF/ERBB	0.35223515567697566	0.0	0.8407750631844987	0.35181451612903225
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	ambiguous_or_low_signal	ambiguous_or_low_signal	VEGFA	KDR	VEGF	0.34412329539814823	1.0	0.8194444444444444	0.4166666666666667
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	tumor_like	ambiguous_or_low_signal	HBEGF	EGFR	EGF/ERBB	0.3409786110923498	0.0	0.8407750631844987	0.31666666666666665
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	tumor_like	tumor_like	HBEGF	EGFR	EGF/ERBB	0.33629305519450853	0.0	0.8407750631844987	0.18955349620893008
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	stroma_fibroblast	stroma_fibroblast	CXCL9	CXCR3	CXCL chemokine	0.32194948653289013	0.0	0.5816532258064516	0.21068548387096775
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	stroma_fibroblast	stroma_fibroblast	CCL2	CCR2	CCL chemokine	0.3097289715467182	0.0	0.7328629032258065	0.17641129032258066
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	ambiguous_or_low_signal	tumor_like	VEGFA	KDR	VEGF	0.3025364447976595	1.0	0.8194444444444444	0.2409435551811289
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	stroma_fibroblast	ambiguous_or_low_signal	VEGFA	KDR	VEGF	0.28885876750179	1.0	0.6491935483870968	0.4166666666666667
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	ambiguous_or_low_signal	tumor_like	CXCL12	CXCR4	CXCL chemokine	0.2879641102880981	1.0	0.6916666666666667	0.37910699241786017
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	stroma_fibroblast	ambiguous_or_low_signal	CXCL9	CXCR3	CXCL chemokine	0.28370742033689017	0.0	0.5816532258064516	0.08333333333333333
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	stroma_fibroblast	ambiguous_or_low_signal	CCL2	CCR2	CCL chemokine	0.2795506413791022	0.0	0.7328629032258065	0.07222222222222222
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	tumor_like	ambiguous_or_low_signal	CXCL12	CXCR4	CXCL chemokine	0.2633545238656391	1.0	0.33361415332771693	0.6777777777777778
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	stroma_fibroblast	tumor_like	VEGFA	KDR	VEGF	0.2472665555965922	1.0	0.6491935483870968	0.2409435551811289
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	ambiguous_or_low_signal	stroma_fibroblast	HBEGF	EGFR	EGF/ERBB	0.22199181786826663	1.0	0.5583333333333333	0.35181451612903225
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	ambiguous_or_low_signal	stroma_fibroblast	CCL2	CCR2	CCL chemokine	0.2130291120365521	0.0	0.6583333333333333	0.17641129032258066
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	ambiguous_or_low_signal	ambiguous_or_low_signal	HBEGF	EGFR	EGF/ERBB	0.21070878408590604	1.0	0.5583333333333333	0.31666666666666665
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	ambiguous_or_low_signal	tumor_like	HBEGF	EGFR	EGF/ERBB	0.2059962448259202	1.0	0.5583333333333333	0.18955349620893008
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	ambiguous_or_low_signal	ambiguous_or_low_signal	CCL2	CCR2	CCL chemokine	0.18286161332248715	0.23	0.6583333333333333	0.07222222222222222
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	stroma_fibroblast	stroma_fibroblast	WNT5A	FZD5	WNT	0.18049368552610942	0.0	0.5090725806451613	0.18850806451612903
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	stroma_fibroblast	ambiguous_or_low_signal	WNT5A	FZD5	WNT	0.1794659201428339	0.0	0.5090725806451613	0.2222222222222222
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	stroma_fibroblast	stroma_fibroblast	HBEGF	EGFR	EGF/ERBB	0.17830012068408135	1.0	0.3780241935483871	0.35181451612903225
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	ambiguous_or_low_signal	stroma_fibroblast	CXCL9	CXCR3	CXCL chemokine	0.1715869834843996	0.29	0.425	0.21068548387096775
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	stroma_fibroblast	ambiguous_or_low_signal	HBEGF	EGFR	EGF/ERBB	0.16701066241829246	1.0	0.3780241935483871	0.31666666666666665
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	stroma_fibroblast	tumor_like	WNT5A	FZD5	WNT	0.16598757766719371	0.0	0.5090725806451613	0.17017691659646167
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	stroma_fibroblast	tumor_like	HBEGF	EGFR	EGF/ERBB	0.16229387174629314	1.0	0.3780241935483871	0.18955349620893008
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	tumor_like	tumor_like	CXCL12	CXCR4	CXCL chemokine	0.15082284888481456	1.0	0.33361415332771693	0.37910699241786017
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	ambiguous_or_low_signal	stroma_fibroblast	WNT5A	FZD5	WNT	0.14638485685979866	0.01	0.4777777777777778	0.18850806451612903
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	ambiguous_or_low_signal	ambiguous_or_low_signal	WNT5A	FZD5	WNT	0.14536397568230347	0.01	0.4777777777777778	0.2222222222222222
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	ambiguous_or_low_signal	ambiguous_or_low_signal	CXCL9	CXCR3	CXCL chemokine	0.13335593594476783	0.98	0.425	0.08333333333333333
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	ambiguous_or_low_signal	tumor_like	WNT5A	FZD5	WNT	0.13189026795670514	0.06	0.4777777777777778	0.17017691659646167
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	tumor_like	stroma_fibroblast	CCL2	CCR2	CCL chemokine	0.09833821567772587	1.0	0.2847514743049705	0.17641129032258066
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	tumor_like	stroma_fibroblast	CXCL9	CXCR3	CXCL chemokine	0.09549295421291563	1.0	0.14406065711878685	0.21068548387096775
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	tumor_like	stroma_fibroblast	WNT5A	FZD5	WNT	0.07739718009311743	1.0	0.17944397641112048	0.18850806451612903
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	tumor_like	ambiguous_or_low_signal	WNT5A	FZD5	WNT	0.07638206917070778	1.0	0.17944397641112048	0.2222222222222222
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	tumor_like	ambiguous_or_low_signal	CCL2	CCR2	CCL chemokine	0.06818013553106882	1.0	0.2847514743049705	0.07222222222222222
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	tumor_like	tumor_like	WNT5A	FZD5	WNT	0.06291496671778621	1.0	0.17944397641112048	0.17017691659646167
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	tumor_like	ambiguous_or_low_signal	CXCL9	CXCR3	CXCL chemokine	0.0572716893212173	1.0	0.14406065711878685	0.08333333333333333

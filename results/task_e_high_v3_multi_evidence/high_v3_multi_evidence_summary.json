@@ -1,0 +1,35 @@
+{
+  "boundary": "Target support is a receiver-compartment expression proxy and public evidence is axis-level; neither constitutes same-sample experimental validation.",
+  "category_counts": {
+    "cellchat_and_target": 108,
+    "cellchat_only": 51,
+    "neither": 33,
+    "target_only": 26
+  },
+  "cellchat_supported_high_rows": 159,
+  "cellchat_target_contingency": {
+    "cellchat_and_target": 108,
+    "cellchat_only": 51,
+    "fisher_exact_two_sided_p": 0.001700600344982692,
+    "haldane_corrected_odds_ratio": 2.663308298223118,
+    "neither": 33,
+    "odds_ratio": 2.6877828054298645,
+    "target_only": 26
+  },
+  "decision": "Use joint CellChat-target support as a computational validation shortlist, not as a formal v4 score or experimental validation.",
+  "high_v3_rows": 218,
+  "joint_cellchat_target_rows": 108,
+  "outputs": {
+    "by_dataset": "results/task_e_high_v3_multi_evidence/high_v3_multi_evidence_by_dataset.tsv",
+    "by_pathway": "results/task_e_high_v3_multi_evidence/high_v3_multi_evidence_by_pathway.tsv",
+    "categories": "results/task_e_high_v3_multi_evidence/high_v3_multi_evidence_categories.tsv",
+    "consensus": "results/task_e_high_v3_multi_evidence/high_v3_joint_cellchat_target_consensus.tsv",
+    "discordant": "results/task_e_high_v3_multi_evidence/high_v3_cellchat_target_discordant.tsv",
+    "matrix": "results/task_e_high_v3_multi_evidence/high_v3_multi_evidence_matrix.tsv"
+  },
+  "public_top40_rows_matched": 40,
+  "run_id": "20260713_1630_high-v3-multi-evidence-calibration",
+  "same_cancer_axis_evidence_rows": 7,
+  "status": "completed",
+  "target_supported_high_rows": 134
+}

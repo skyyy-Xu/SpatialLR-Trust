@@ -1,0 +1,123 @@
+{
+  "artifacts": [
+    {
+      "bytes": 2102,
+      "lines": 125,
+      "path": "envs/python-baseline-with-liana-freeze.txt",
+      "role": "Installed Python package snapshot",
+      "sha256": "ddd73d43064ce24b9d29f9d4a2fb3c6ae41da30af22de15fc86eb662d22cc334"
+    },
+    {
+      "bytes": 30,
+      "lines": 1,
+      "path": "envs/python-baseline-with-liana-pip-check.txt",
+      "role": "Python dependency consistency result",
+      "sha256": "9261363b733079a641c2e4cc9bc46ffa1d8336945a87f807b6cf68847dbc9b09"
+    },
+    {
+      "bytes": 29672,
+      "lines": 356,
+      "path": "envs/r-baseline-cellchat-cytosignal-freeze.txt",
+      "role": "Linux-64 explicit conda base lock for the R environment",
+      "sha256": "fb01a330b14ca0b54a3665810a8ba4d1cde5c7361276741ff17f312d8a5c4b5d"
+    },
+    {
+      "bytes": 3743,
+      "lines": 260,
+      "path": "envs/r-baseline-installed-packages.txt",
+      "role": "Installed R package snapshot including local source packages",
+      "sha256": "6ccb6999499be579c31a8191fd7c7ec461796255a3a28ee68b257c972ee6fb56"
+    },
+    {
+      "bytes": 777,
+      "lines": 23,
+      "path": "envs/r-baseline-cellchat-cytosignal-sessionInfo.txt",
+      "role": "R session information snapshot",
+      "sha256": "914e693810420e1eef9bbb196587e81d8be49f7e15b0e3370973b345c248964a"
+    },
+    {
+      "bytes": 443,
+      "lines": 3,
+      "path": "envs/r-baseline-local-sources.tsv",
+      "role": "Hash lock for local CellChat and NMF source archives",
+      "sha256": "88d550f463f8997b0a176f85b62ca92e7b41aed3a6a28056ac1d1fee297c6248"
+    }
+  ],
+  "claims": {
+    "cross_platform_container": "NOT_VALIDATED",
+    "cytosignal": "UNRESOLVED_NOT_INSTALLED",
+    "installed_snapshot": "PASS",
+    "same_platform_target_reconstruction": "PARTIAL_NOT_INDEPENDENTLY_TESTED"
+  },
+  "generated_at": "2026-08-02T11:01:45+08:00",
+  "platform": {
+    "machine": "x86_64",
+    "release": "6.12.0-211.16.1.el10_2.0.1.x86_64",
+    "system": "Linux"
+  },
+  "privacy": {
+    "absolute_user_paths_persisted": false,
+    "credentials_persisted": false,
+    "host_name_persisted": false,
+    "network_used": false
+  },
+  "python": {
+    "executable": "envs/spatiallr-py312-commot/bin/python",
+    "package_count": 125,
+    "packages": {
+      "commot": "0.0.3",
+      "liana": "1.8.0",
+      "numpy": "1.26.4",
+      "pandas": "2.3.3",
+      "pyarrow": "19.0.1",
+      "rdata": "1.1.0",
+      "scanpy": "1.11.5",
+      "scipy": "1.17.1",
+      "shapely": "2.1.2",
+      "xarray": "2026.4.0"
+    },
+    "pip_check": "PASS",
+    "reconstruction_status": "PINNED_INSTALLED_SNAPSHOT_NO_COMPLETE_HASH_LOCK",
+    "version": "Python 3.12.13"
+  },
+  "r": {
+    "conda_base_reconstruction_status": "LINUX64_EXPLICIT_BASE_LOCK",
+    "executable": "envs/spatiallr-r-cellchat-cytosignal/bin/Rscript",
+    "local_source_reconstruction_status": "HASH_LOCKED_SOURCE_ARCHIVES",
+    "package_count": 259,
+    "packages": {
+      "Biobase": "2.62.0",
+      "CellChat": "2.2.0.9001",
+      "ComplexHeatmap": "2.18.0",
+      "NMF": "0.28",
+      "dplyr": "1.1.4",
+      "ggplot2": "3.5.2",
+      "igraph": "2.1.4"
+    },
+    "platform": "x86_64-conda-linux-gnu",
+    "version": "4.3.3",
+    "version_text": "Rscript (R) version 4.3.3 (2024-02-29)"
+  },
+  "repository_head_before_capture": "9c023463adb12e0756111856b767bb317a3500e4",
+  "run_id": "20260802_1040_runtime-environment-lock",
+  "schema_version": "runtime-environment-lock-v1",
+  "scope": "installed_runtime_snapshot",
+  "source_archives": [
+    {
+      "artifact": "CellChat",
+      "bytes": 29281894,
+      "path": "envs/sources/CellChat_75253cd0c9e68410e6e721a6d3a0419a1d7e358f.tar.gz",
+      "sha256": "52a90ce9f121acd58c9e5b2542956de0f3d81ac9b10906454847946f289e0739",
+      "upstream": "https://github.com/jinworks/CellChat",
+      "version": "2.2.0.9001@75253cd0c9e68410e6e721a6d3a0419a1d7e358f"
+    },
+    {
+      "artifact": "NMF",
+      "bytes": 1678046,
+      "path": "envs/sources/NMF_0.28.tar.gz",
+      "sha256": "77dfe7b323ee5e5f8801851d1d4356932e2ffc810a7ac7faf5542cbfd92eeefb",
+      "upstream": "https://cran.r-project.org/package=NMF",
+      "version": "0.28"
+    }
+  ]
+}

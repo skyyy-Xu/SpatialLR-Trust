@@ -1,0 +1,9 @@
+{
+  "run_id": "20260708_2108_pilot-lr-baseline",
+  "method": "stdlib_marker_lr_pilot",
+  "samples": 34,
+  "lr_pairs": 15,
+  "candidates": 4225,
+  "candidate_table": "results/task_c_pilot_baseline/stdlib_marker_lr_pilot_candidates.tsv",
+  "sample_summary": "results/task_c_pilot_baseline/stdlib_marker_lr_pilot_sample_summary.tsv"
+}

@@ -1,0 +1,19 @@
+pathway	overlap_gene	candidate_roles	candidate_pairs	interpretation
+CCL chemokine	CCL2	ligand	CCL2-CCR2	candidate-defining gene overlaps the pathway co-expression panel
+CCL chemokine	CCR2	receptor	CCL2-CCR2	candidate-defining gene overlaps the pathway co-expression panel
+CXCL chemokine	CXCL9	ligand	CXCL9-CXCR3	candidate-defining gene overlaps the pathway co-expression panel
+CXCL chemokine	CXCR3	receptor	CXCL9-CXCR3	candidate-defining gene overlaps the pathway co-expression panel
+CXCL chemokine	CXCR4	receptor	CXCL12-CXCR4	candidate-defining gene overlaps the pathway co-expression panel
+ECM-integrin	COL1A1	ligand	COL1A1-ITGA2	candidate-defining gene overlaps the pathway co-expression panel
+ECM-integrin	ITGA2	receptor	COL1A1-ITGA2	candidate-defining gene overlaps the pathway co-expression panel
+EGF/ERBB	EGFR	receptor	EGF-EGFR;HBEGF-EGFR	candidate-defining gene overlaps the pathway co-expression panel
+MIF	CD74	receptor	MIF-CD74	candidate-defining gene overlaps the pathway co-expression panel
+NOTCH	DLL4	ligand	DLL4-NOTCH1	candidate-defining gene overlaps the pathway co-expression panel
+NOTCH	JAG1	ligand	JAG1-NOTCH2	candidate-defining gene overlaps the pathway co-expression panel
+NOTCH	NOTCH1	receptor	DLL4-NOTCH1	candidate-defining gene overlaps the pathway co-expression panel
+NOTCH	NOTCH2	receptor	JAG1-NOTCH2	candidate-defining gene overlaps the pathway co-expression panel
+SPP1	CD44	receptor	SPP1-CD44	candidate-defining gene overlaps the pathway co-expression panel
+SPP1	ITGAV	receptor	SPP1-ITGAV	candidate-defining gene overlaps the pathway co-expression panel
+SPP1	SPP1	ligand	SPP1-CD44;SPP1-ITGAV	candidate-defining gene overlaps the pathway co-expression panel
+VEGF	KDR	receptor	VEGFA-KDR	candidate-defining gene overlaps the pathway co-expression panel
+WNT	FZD5	receptor	WNT5A-FZD5	candidate-defining gene overlaps the pathway co-expression panel

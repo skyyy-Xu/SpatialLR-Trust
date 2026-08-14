@@ -1,0 +1,23 @@
+check	passed	observed	expected
+builder_status	1	PASS_TF48_STAGE4_REVISION_ANALYSES_BUILT	PASS_TF48_STAGE4_REVISION_ANALYSES_BUILT
+source_commit	1	d5e13a5b94c22a1073a650e7be1fb875128528f0	d5e13a5b94c22a1073a650e7be1fb875128528f0
+failures_empty	1	0	0
+source_lock_nonempty	1	51	>=49
+source_lock_rehash	1		all rows match live committed inputs
+construct_rows_unique	1	1140/1140	1140/1140
+construct_recomputed_from_retained_manifests	1	mismatch=0;truth=1140	mismatch=0;truth=1140
+construct_actual_artifact_rehash	1	0	0
+null_resolution	1	rows=6;draws=[30, 50, 100, 999, 999, 999]	6 rows; 30,50,100,999,999,999
+nominal_missing_fail_closed	1	9	9
+pilot_loo_independent_recompute	1	mismatch=0;rows=4225	mismatch=0;rows=4225
+pilot_loo_outcome	1	high=217;changed=48	high=217;changed=48
+pilot_units_no_technical_replicates	1	{'GSE300445': 4, 'GSE283052': 12, 'GSE292299': 18}	dataset sample counts 4,12,18
+f5_unit_structure	1	groups=15;sizes=[34]	15 groups; 34 rows each
+matched_operating_points_recomputed	1	{'COMMOT': 59, 'LIANA': 56, 'CellChat': 34, 'SpatialLR-Trust': 46}	COMMOT=59;LIANA=56;CellChat=34;SpatialLR-Trust=46
+f5_loo_independent_recompute	1	mismatch=0;rows=1140	mismatch=0;rows=1140
+f5_loo_outcome	1	high=41;changed=40	high=41;changed=40
+target_sufficient_statistics_rows	1	10370	10370
+target_stats_reproduce_frozen_source	1	mismatch=0;all=1266;high=134;mif=107	mismatch=0;all=1266;high=134;mif=107
+target_exclusion_independent_recompute	1	mismatch=0;rows=4225	mismatch=0;rows=4225
+target_overlap	1	rows=18;mif_cd74=True	rows=18;mif_cd74=True
+featured_mif_gene_loo	1	7	7

@@ -1,0 +1,16 @@
+ligand	receptor	pathway	notes
+TGFB1	TGFBR1	TGFB	canonical tumor-stroma and immunosuppressive signaling axis
+TGFB1	TGFBR2	TGFB	canonical tumor-stroma and immunosuppressive signaling axis
+CXCL12	CXCR4	CXCL chemokine	chemokine axis relevant to tumor immune/stromal niches
+CXCL9	CXCR3	CXCL chemokine	T cell recruitment/interferon-associated chemokine axis
+CCL2	CCR2	CCL chemokine	monocyte/macrophage recruitment axis
+VEGFA	KDR	VEGF	angiogenic ligand-receptor pair
+SPP1	CD44	SPP1	macrophage/stromal/tumor interaction axis
+SPP1	ITGAV	SPP1	integrin-associated SPP1 interaction
+MIF	CD74	MIF	immune/tumor inflammatory signaling axis
+DLL4	NOTCH1	NOTCH	contact-associated Notch signaling
+JAG1	NOTCH2	NOTCH	contact-associated Notch signaling
+WNT5A	FZD5	WNT	noncanonical WNT signaling candidate
+EGF	EGFR	EGF/ERBB	EGFR signaling candidate
+HBEGF	EGFR	EGF/ERBB	EGFR signaling candidate
+COL1A1	ITGA2	ECM-integrin	matrix-rich stromal interaction candidate

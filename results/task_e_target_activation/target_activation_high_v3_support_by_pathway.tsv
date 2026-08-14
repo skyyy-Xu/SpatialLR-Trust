@@ -1,0 +1,11 @@
+pathway	rows	target_supported	unsupported	target_supported_fraction
+SPP1	59	34	25	0.5763
+TGFB	30	13	17	0.4333
+CXCL chemokine	28	15	13	0.5357
+MIF	41	29	12	0.7073
+NOTCH	17	12	5	0.7059
+VEGF	5	0	5	0.0000
+ECM-integrin	23	20	3	0.8696
+WNT	4	1	3	0.2500
+EGF/ERBB	9	8	1	0.8889
+CCL chemokine	2	2	0	1.0000

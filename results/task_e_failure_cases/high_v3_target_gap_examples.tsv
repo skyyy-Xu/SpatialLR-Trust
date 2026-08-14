@@ -1,0 +1,14 @@
+target_gap_label	target_gap_reason	candidate	dataset	sample_id	cancer	pathway	spatiallr_trust_score_pilot_v3	tri_method_support_count	external_method_support_count	spatial_null_p	label_null_p	fake_lr_null_p	dataset_recurrence_n	target_genes_detected	receiver_target_enrichment	receiver_target_percentile	target_activation_support
+Low percentile + enrichment	low_percentile_and_low_enrichment	tumor_like->tumor_like MIF-CD74	GSE300445	GSM9060735_AdjIII-0133	melanoma	MIF	0.941516	3	2	0.019607843	0.032258065	0.0099009901	4	5	0.84656859	0.6	0
+Low percentile + enrichment	low_percentile_and_low_enrichment	tumor_like->tumor_like SPP1-CD44	GSE292299	GSM8855704_NSCLC_P2	NSCLC	SPP1	0.940983	3	2	0.019607843	0.032258065	0.0099009901	16	6	0.82952626	0.6	0
+Low percentile + enrichment	low_percentile_and_low_enrichment	tumor_like->tumor_like MIF-CD74	GSE292299	GSM8855709_NSCLC_P7	NSCLC	MIF	0.939492	3	2	0.019607843	0.032258065	0.0099009901	15	5	0.90042131	0.6	0
+Low percentile + enrichment	low_percentile_and_low_enrichment	tumor_like->tumor_like SPP1-ITGAV	GSE292299	GSM8855704_NSCLC_P2	NSCLC	SPP1	0.937468	3	2	0.019607843	0.032258065	0.0099009901	15	6	0.82952626	0.6	0
+Low percentile + enrichment	low_percentile_and_low_enrichment	immune->immune SPP1-ITGAV	GSE292299	GSM8855709_NSCLC_P7	NSCLC	SPP1	0.937432	3	2	0.019607843	0.032258065	0.0099009901	14	6	0.90484018	0.6	0
+Low receiver enrichment	low_receiver_enrichment	tumor_like->tumor_like MIF-CD74	GSE292299	GSM8855715_NSCLC_P13	NSCLC	MIF	0.940735	3	2	0.019607843	0.032258065	0.0099009901	15	5	1.184471	1.0	0
+Low receiver enrichment	low_receiver_enrichment	tumor_like->tumor_like SPP1-CD44	GSE292299	GSM8855709_NSCLC_P7	NSCLC	SPP1	0.940024	3	2	0.019607843	0.032258065	0.0099009901	16	6	1.0911579	0.8	0
+Low receiver enrichment	low_receiver_enrichment	tumor_like->tumor_like SPP1-ITGAV	GSE292299	GSM8855709_NSCLC_P7	NSCLC	SPP1	0.938391	3	2	0.019607843	0.032258065	0.0099009901	15	6	1.0911579	0.8	0
+Low receiver enrichment	low_receiver_enrichment	tumor_like->tumor_like COL1A1-ITGA2	GSE300445	GSM9060733_AdjIII-0022	melanoma	ECM-integrin	0.937965	3	2	0.019607843	0.032258065	0.0099009901	4	9	1.0071509	0.8	0
+Low receiver enrichment	low_receiver_enrichment	tumor_like->tumor_like MIF-CD74	GSE283052	GSM8655160_P07	colorectal cancer	MIF	0.937894	3	2	0.019607843	0.032258065	0.0099009901	11	7	0.96374227	0.8	0
+Low receiver percentile	low_receiver_percentile	tumor_like->tumor_like MIF-CD74	GSE300445	GSM9060734_AdjIII-0113	melanoma	MIF	0.941622	3	2	0.019607843	0.032258065	0.0099009901	4	5	1.7746628	0.6	0
+Low receiver percentile	low_receiver_percentile	tumor_like->tumor_like SPP1-CD44	GSE300445	GSM9060734_AdjIII-0113	melanoma	SPP1	0.9348	3	2	0.019607843	0.064516129	0.0099009901	4	6	2.6486597	0.6	0
+Low receiver percentile	low_receiver_percentile	immune->immune JAG1-NOTCH2	GSE300445	GSM9060734_AdjIII-0113	melanoma	NOTCH	0.837359	3	2	0.019607843	0.032258065	0.069306931	1	7	1.6943151	0.6	0

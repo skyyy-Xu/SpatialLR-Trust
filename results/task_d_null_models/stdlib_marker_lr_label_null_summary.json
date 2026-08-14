@@ -1,0 +1,12 @@
+{
+  "run_id": "20260709_1137_label-null-pilot",
+  "null_model": "spot_compartment_label_permutation",
+  "source_method": "stdlib_marker_lr_pilot",
+  "candidate_rows": 4225,
+  "samples": 34,
+  "permutations": 30,
+  "seed": 20260709,
+  "p_le_0_05": 915,
+  "p_le_0_10": 1070,
+  "output": "results/task_d_null_models/stdlib_marker_lr_label_null.tsv"
+}

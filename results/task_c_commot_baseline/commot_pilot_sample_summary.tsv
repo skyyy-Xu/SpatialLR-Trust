@@ -1,0 +1,2 @@
+method	dataset	sample_id	cancer	platform	spots_used	genes_used	lr_pairs_requested	lr_pairs_available	candidate_rows	positive_candidate_rows	mean_positive_score	max_positive_score	distance_threshold_array_units	cot_nitermax
+commot_pilot_v1	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	2539	18085	15	15	135	135	0.0015750149798617467	0.05052515426655549	2.5	2000

@@ -1,0 +1,58 @@
+{
+  "all_four": 797,
+  "at_least_two": 6426,
+  "comparability_boundary": "Stdlib, COMMOT and LIANA used the curated pilot LR panel, while CellChat used all CellChatDB.human categories. pilot_comparable metrics restrict LR identities to the pilot panel.",
+  "datasets": 3,
+  "key_definition": "LR-component support excludes pathway from the key; pathway-direction support is reported separately.",
+  "methods": [
+    "stdlib",
+    "commot",
+    "liana",
+    "cellchat"
+  ],
+  "outputs": {
+    "by_dataset": "results/task_c_four_method_full_benchmark/four_method_support_by_dataset.tsv",
+    "by_sample": "results/task_c_four_method_full_benchmark/four_method_support_by_sample.tsv",
+    "lr_component_support": "results/task_c_four_method_full_benchmark/four_method_lr_component_support.tsv.gz",
+    "pathway_direction_support": "results/task_c_four_method_full_benchmark/four_method_pathway_direction_support.tsv.gz"
+  },
+  "pathway_direction_all_four": 690,
+  "pathway_direction_at_least_two": 4579,
+  "pathway_direction_support_count_distribution": {
+    "1": 20726,
+    "2": 1813,
+    "3": 2076,
+    "4": 690
+  },
+  "pathway_direction_union": 25305,
+  "pilot_comparable_all_four": 797,
+  "pilot_comparable_at_least_two": 6426,
+  "pilot_comparable_support_count_distribution": {
+    "1": 920,
+    "2": 2836,
+    "3": 2793,
+    "4": 797
+  },
+  "pilot_comparable_union": 7346,
+  "raw_rows": {
+    "cellchat": 93790,
+    "commot": 6292,
+    "liana": 6177,
+    "stdlib": 4225
+  },
+  "run_id": "20260713_1445_four-method-full-benchmark",
+  "samples": 34,
+  "support_count_distribution": {
+    "1": 101761,
+    "2": 2836,
+    "3": 2793,
+    "4": 797
+  },
+  "union": 108187,
+  "unique_lr_component_keys": {
+    "cellchat": 102306,
+    "commot": 6292,
+    "liana": 6177,
+    "stdlib": 4225
+  }
+}

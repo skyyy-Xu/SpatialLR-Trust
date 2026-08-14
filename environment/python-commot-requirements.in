@@ -1,0 +1,15 @@
+# Seed requirements for the project-local COMMOT baseline environment.
+# Keep this file small and human-readable; record exact resolved versions in
+# envs/python-commot-freeze.txt after setup.
+numpy<2
+scipy
+pandas
+h5py
+anndata
+scanpy
+scikit-learn
+matplotlib
+seaborn
+networkx
+statsmodels
+commot

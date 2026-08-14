@@ -1,0 +1,5 @@
+dataset	cancer	rows	tier1	tier2	tier3
+GSE283052	colorectal cancer	54	42	11	1
+GSE292299	NSCLC	53	43	10	0
+GSE300445	melanoma	16	0	0	16
+GSE292299	DLBCL	11	11	0	0

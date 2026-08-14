@@ -1,0 +1,37 @@
+{
+  "axis_counts": {
+    "COL1A1-ITGA2": 8,
+    "CXCL12-CXCR4": 1,
+    "JAG1-NOTCH2": 2,
+    "MIF-CD74": 20,
+    "SPP1-CD44": 5,
+    "SPP1-ITGAV": 4
+  },
+  "dataset_counts": {
+    "GSE283052|colorectal cancer": 14,
+    "GSE292299|DLBCL": 2,
+    "GSE292299|NSCLC": 17,
+    "GSE300445|melanoma": 7
+  },
+  "evidence_grade_counts": {
+    "broad_spp1_integrin_axis": 4,
+    "direct_axis_other_cancer": 21,
+    "direct_axis_same_cancer": 7,
+    "direct_ecm_receptor_other_cancer": 8
+  },
+  "input": "results/task_e_target_activation/target_activation_supported_high_v3_top40.tsv",
+  "manual_review_category_counts": {
+    "broad_pathway": 12,
+    "other_cancer_axis": 21,
+    "same_cancer_axis": 7
+  },
+  "note": "First-pass public evidence check for top40 using GEO pages and PubMed/E-utilities metadata. Evidence supports prioritization and safe wording, not same-sample experimental proof.",
+  "outputs": {
+    "candidate_evidence": "results/task_e_target_activation/public_evidence_top40_candidates.tsv",
+    "sources": "results/task_e_target_activation/public_evidence_top40_sources.tsv",
+    "summary": "results/task_e_target_activation/public_evidence_top40_summary.json"
+  },
+  "run_id": "20260709_2155_public-evidence-top40",
+  "source_count": 20,
+  "top_n_checked": 40
+}

@@ -1,0 +1,9 @@
+filter_case_type	null_pass_count	candidate_rows	filter_case_label
+both_external_supported_but_failed_null_gate	0	736	External support, null failure
+both_external_supported_but_failed_null_gate	1	1134	External support, null failure
+both_external_supported_but_failed_null_gate	2	836	External support, null failure
+failed_all_three_null_gates	0	562	Failed all null gates
+raw_score_supported_but_no_external_method_support	0	1	Raw score, no external support
+raw_score_supported_but_no_external_method_support	1	21	Raw score, no external support
+raw_score_supported_but_no_external_method_support	2	14	Raw score, no external support
+v2_high_downgraded_without_both_external_methods	3	4	v2 high downgraded

@@ -1,0 +1,6 @@
+selection	selected	true_positive	false_positive	empirical_false_discovery_proportion	fixed_fake_excluded	reference_excluded
+commot_detected	1001	779	222	0.2217782217782218	1	1
+liana_detected	505	390	115	0.22772277227722773	1	1
+cellchat_detected	912	702	210	0.23026315789473684	1	1
+trust_nonlow	613	496	117	0.19086460032626426	1	1
+trust_high	81	57	24	0.2962962962962963	1	1

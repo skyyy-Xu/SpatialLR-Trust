@@ -1,0 +1,35 @@
+dataset	sample_id	gsm	cancer	platform	matrix_rows	matrix_cols	matrix_nnz	in_tissue_n	qc_status	annotation_status	notes
+GSE300445	GSM9060732_AdjIII-0019	GSM9060732	melanoma	Visium	18085	2539	20010567	2539	pass	marker_compartment_v1	File-level QC passed; marker_compartment_v1 coarse computational spot labels available.
+GSE300445	GSM9060733_AdjIII-0022	GSM9060733	melanoma	Visium	18085	2783	18900716	2783	pass	marker_compartment_v1	File-level QC passed; marker_compartment_v1 coarse computational spot labels available.
+GSE300445	GSM9060734_AdjIII-0113	GSM9060734	melanoma	Visium	18085	2145	10408619	2145	pass	marker_compartment_v1	File-level QC passed; marker_compartment_v1 coarse computational spot labels available.
+GSE300445	GSM9060735_AdjIII-0133	GSM9060735	melanoma	Visium	18085	4115	30414762	4115	pass	marker_compartment_v1	File-level QC passed; marker_compartment_v1 coarse computational spot labels available.
+GSE283052	GSM8655157_P02	GSM8655157	colorectal cancer	Visium	36601	4992	15729017	2771	pass	marker_compartment_v1	File-level QC passed; marker_compartment_v1 coarse computational spot labels available.
+GSE283052	GSM8655158_P04	GSM8655158	colorectal cancer	Visium	36601	4992	13067116	2230	pass	marker_compartment_v1	File-level QC passed; marker_compartment_v1 coarse computational spot labels available.
+GSE283052	GSM8655159_P05	GSM8655159	colorectal cancer	Visium	36601	4992	10953776	947	pass	marker_compartment_v1	File-level QC passed; marker_compartment_v1 coarse computational spot labels available.
+GSE283052	GSM8655160_P07	GSM8655160	colorectal cancer	Visium	36601	4992	15613980	2194	pass	marker_compartment_v1	File-level QC passed; marker_compartment_v1 coarse computational spot labels available.
+GSE283052	GSM8655161_P09	GSM8655161	colorectal cancer	Visium	36601	4992	11925923	2315	pass	marker_compartment_v1	File-level QC passed; marker_compartment_v1 coarse computational spot labels available.
+GSE283052	GSM8655162_P10	GSM8655162	colorectal cancer	Visium	36601	4992	13467851	2465	pass	marker_compartment_v1	File-level QC passed; marker_compartment_v1 coarse computational spot labels available.
+GSE283052	GSM8655163_P11	GSM8655163	colorectal cancer	Visium	36601	4992	9579880	2670	pass	marker_compartment_v1	File-level QC passed; marker_compartment_v1 coarse computational spot labels available.
+GSE283052	GSM8655164_P13	GSM8655164	colorectal cancer	Visium	36601	4992	10326943	1809	pass	marker_compartment_v1	File-level QC passed; marker_compartment_v1 coarse computational spot labels available.
+GSE283052	GSM8655165_P15	GSM8655165	colorectal cancer	Visium	36601	4992	12784996	2715	pass	marker_compartment_v1	File-level QC passed; marker_compartment_v1 coarse computational spot labels available.
+GSE283052	GSM8655166_P17	GSM8655166	colorectal cancer	Visium	36601	4992	11329515	2224	pass	marker_compartment_v1	File-level QC passed; marker_compartment_v1 coarse computational spot labels available.
+GSE283052	GSM8655167_P18	GSM8655167	colorectal cancer	Visium	36601	4992	9481202	1691	pass	marker_compartment_v1	File-level QC passed; marker_compartment_v1 coarse computational spot labels available.
+GSE283052	GSM8655168_P24	GSM8655168	colorectal cancer	Visium	36601	4992	10342065	2735	pass	marker_compartment_v1	File-level QC passed; marker_compartment_v1 coarse computational spot labels available.
+GSE292299	GSM8855703_NSCLC_P1	GSM8855703	NSCLC	Visium	18120	8458	27542232	8458	pass	marker_compartment_v1	File-level QC passed; marker_compartment_v1 coarse computational spot labels available.
+GSE292299	GSM8855704_NSCLC_P2	GSM8855704	NSCLC	Visium	18120	6907	24104220	6907	pass	marker_compartment_v1	File-level QC passed; marker_compartment_v1 coarse computational spot labels available.
+GSE292299	GSM8855705_NSCLC_P3	GSM8855705	NSCLC	Visium	18120	9158	25236279	9158	pass	marker_compartment_v1	File-level QC passed; marker_compartment_v1 coarse computational spot labels available.
+GSE292299	GSM8855706_NSCLC_P4	GSM8855706	NSCLC	Visium	18120	9516	21881344	9516	pass	marker_compartment_v1	File-level QC passed; marker_compartment_v1 coarse computational spot labels available.
+GSE292299	GSM8855707_NSCLC_P5	GSM8855707	NSCLC	Visium	18120	5388	9415589	5388	pass	marker_compartment_v1	File-level QC passed; marker_compartment_v1 coarse computational spot labels available.
+GSE292299	GSM8855708_NSCLC_P6	GSM8855708	NSCLC	Visium	18120	10078	55903480	10078	pass	marker_compartment_v1	File-level QC passed; marker_compartment_v1 coarse computational spot labels available.
+GSE292299	GSM8855709_NSCLC_P7	GSM8855709	NSCLC	Visium	18120	5705	23931393	5705	pass	marker_compartment_v1	File-level QC passed; marker_compartment_v1 coarse computational spot labels available.
+GSE292299	GSM8855710_NSCLC_P8	GSM8855710	NSCLC	Visium	18120	5218	9546924	5218	pass	marker_compartment_v1	File-level QC passed; marker_compartment_v1 coarse computational spot labels available.
+GSE292299	GSM8855711_NSCLC_P9	GSM8855711	NSCLC	Visium	18120	12242	57823269	12242	pass	marker_compartment_v1	File-level QC passed; marker_compartment_v1 coarse computational spot labels available.
+GSE292299	GSM8855712_NSCLC_P10	GSM8855712	NSCLC	Visium	18120	8862	43704922	8862	pass	marker_compartment_v1	File-level QC passed; marker_compartment_v1 coarse computational spot labels available.
+GSE292299	GSM8855713_NSCLC_P11	GSM8855713	NSCLC	Visium	18120	13202	100594401	13202	pass	marker_compartment_v1	File-level QC passed; marker_compartment_v1 coarse computational spot labels available.
+GSE292299	GSM8855714_NSCLC_P12	GSM8855714	NSCLC	Visium	18120	2131	5492791	2131	pass	marker_compartment_v1	File-level QC passed; marker_compartment_v1 coarse computational spot labels available.
+GSE292299	GSM8855715_NSCLC_P13	GSM8855715	NSCLC	Visium	18120	5247	45634755	5247	pass	marker_compartment_v1	File-level QC passed; marker_compartment_v1 coarse computational spot labels available.
+GSE292299	GSM8855716_NSCLC_P14	GSM8855716	NSCLC	Visium	18120	1862	983820	1862	pass	marker_compartment_v1	File-level QC passed; marker_compartment_v1 coarse computational spot labels available.
+GSE292299	GSM8855717_NSCLC_P15	GSM8855717	NSCLC	Visium	18120	13002	46679551	13002	pass	marker_compartment_v1	File-level QC passed; marker_compartment_v1 coarse computational spot labels available.
+GSE292299	GSM8855718_NSCLC_P16	GSM8855718	NSCLC	Visium	18120	5351	10300812	5351	pass	marker_compartment_v1	File-level QC passed; marker_compartment_v1 coarse computational spot labels available.
+GSE292299	GSM8855719_DLBCL_P1	GSM8855719	DLBCL	Visium	18085	12413	29053600	12413	pass	marker_compartment_v1	File-level QC passed; marker_compartment_v1 coarse computational spot labels available.
+GSE292299	GSM8855720_DLBCL_P2	GSM8855720	DLBCL	Visium	18085	13713	22620443	13713	pass	marker_compartment_v1	File-level QC passed; marker_compartment_v1 coarse computational spot labels available.

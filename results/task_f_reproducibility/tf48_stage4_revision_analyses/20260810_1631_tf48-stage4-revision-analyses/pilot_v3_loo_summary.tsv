@@ -1,0 +1,11 @@
+metric	value
+rows	4225
+original_high	218
+loo_high	217
+tier_changed	48
+transition:high_pilot_v3->high_pilot_v3	217
+transition:high_pilot_v3->medium_pilot_v3	1
+transition:low_pilot_v3->low_pilot_v3	2011
+transition:low_pilot_v3->medium_pilot_v3	20
+transition:medium_pilot_v3->low_pilot_v3	27
+transition:medium_pilot_v3->medium_pilot_v3	1949

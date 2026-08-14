@@ -1,0 +1,43 @@
+{
+  "candidate": "tumor_like->tumor_like MIF-CD74",
+  "case_recommended_use": "primary_case",
+  "dataset": "GSE292299",
+  "genes_extracted": [
+    "MIF",
+    "CD74",
+    "CXCR4",
+    "CXCR2",
+    "NFKBIA",
+    "IL1B"
+  ],
+  "interpretation_boundary": "Plot-ready computational case-study data only; not same-sample experimental validation.",
+  "manual_review_category": "same_cancer_axis",
+  "matrix_shape": [
+    18120,
+    8862,
+    43704922
+  ],
+  "note": "Plot-ready computational data package for a SpatialLR-Trust case-study candidate. No experimental validation is implied.",
+  "original_paper_evidence_upgrade": "no_upgrade_keep_same_cancer_axis",
+  "outputs": {
+    "compartment_summary": "results/task_e_case_studies/GSE292299_GSM8855712_MIF_CD74/gsm8855712_mif_cd74_compartment_summary.tsv",
+    "evidence_summary": "results/task_e_case_studies/GSE292299_GSM8855712_MIF_CD74/gsm8855712_mif_cd74_evidence_summary.tsv",
+    "spot_plot_data": "results/task_e_case_studies/GSE292299_GSM8855712_MIF_CD74/gsm8855712_mif_cd74_spot_plot_data.tsv",
+    "summary": "results/task_e_case_studies/GSE292299_GSM8855712_MIF_CD74/gsm8855712_mif_cd74_case_summary.json"
+  },
+  "receiver_target_enrichment_from_task_e": "11.615372",
+  "receiver_target_percentile_from_task_e": "1",
+  "run_id": "20260709_2240_mif-cd74-case-data",
+  "sample_id": "GSM8855712_NSCLC_P10",
+  "spot_rows": 8862,
+  "target_genes": [
+    "CD74",
+    "CXCR4",
+    "CXCR2",
+    "NFKBIA",
+    "IL1B"
+  ],
+  "tumor_like_fraction_mif_cd74_both_positive": "0.64030847",
+  "tumor_like_mean_mif_target": "2.0560543",
+  "v3_score": "0.939243"
+}

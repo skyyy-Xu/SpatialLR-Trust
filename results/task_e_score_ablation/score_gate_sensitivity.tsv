@@ -1,0 +1,6 @@
+gate_scenario	gate_label	candidate_rows	target_supported_rows	target_supported_fraction	all_null_gate_rows	both_external_rows
+full_high_rule	Full high rule	218	134	0.6146788990825688	218	218
+score_threshold_only	Score >= 0.75 only	922	393	0.4262472885032538	222	916
+drop_null_gate	Drop null gate	916	391	0.4268558951965066	218	916
+drop_external_gate	Drop external gate	222	134	0.6036036036036037	222	218
+drop_both_gates	Drop both gates	922	393	0.4262472885032538	222	916

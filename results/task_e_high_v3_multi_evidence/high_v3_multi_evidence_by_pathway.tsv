@@ -1,0 +1,11 @@
+pathway	high_v3_rows	cellchat_supported_rows	target_supported_rows	joint_supported_rows	joint_supported_fraction	cellchat_only_rows	target_only_rows	neither_rows	public_top40_checked_rows	same_cancer_axis_evidence_rows
+CCL chemokine	2	1	2	1	0.5	0	1	0	0	0
+CXCL chemokine	28	20	15	11	0.39285714285714285	9	4	4	1	1
+ECM-integrin	23	18	20	18	0.782608695652174	0	2	3	8	0
+EGF/ERBB	9	7	8	6	0.6666666666666666	1	2	0	0	0
+MIF	41	35	29	26	0.6341463414634146	9	3	3	20	6
+NOTCH	17	8	12	6	0.35294117647058826	2	6	3	2	0
+SPP1	59	41	34	28	0.4745762711864407	13	6	12	9	0
+TGFB	30	26	13	11	0.36666666666666664	15	2	2	0	0
+VEGF	5	0	0	0	0.0	0	0	5	0	0
+WNT	4	3	1	1	0.25	2	0	1	0	0

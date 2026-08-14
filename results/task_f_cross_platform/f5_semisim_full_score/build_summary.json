@@ -1,0 +1,22 @@
+{
+  "status": "PASS_F5_SEMISIM_FULL_SCORE_BUILT",
+  "run_id": "20260726_1706_task-f-f5-full-score",
+  "truth_axis_rows": 1140,
+  "resource_score_rows": 1080,
+  "fixed_fake_out_of_scope_rows": 60,
+  "biological_samples": 3,
+  "technical_replicates_per_sample": 5,
+  "conditions": 285,
+  "recurrence_keys": 76,
+  "tier_counts": {
+    "medium_f5_full": 554,
+    "low_f5_full": 445,
+    "high_f5_full": 81,
+    "out_of_scope_fixed_fake": 60
+  },
+  "metric_rows": 8,
+  "bootstrap_rows": 16,
+  "bootstrap_draws": 2000,
+  "validation_pending": true,
+  "boundary": "Frozen computational score on truth-labelled semi-simulation; not a calibrated probability or experimental validation."
+}

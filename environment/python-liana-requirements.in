@@ -1,0 +1,4 @@
+# Additional second external baseline dependency for the existing project-local Python environment.
+# Preserve COMMOT compatibility by keeping NumPy below 2.
+numpy<2
+liana

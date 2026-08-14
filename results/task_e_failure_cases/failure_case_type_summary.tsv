@@ -1,0 +1,5 @@
+filter_case_type	candidate_rows	mean_score_v3	median_null_pass_count	both_external_supported	filter_case_label	fraction_of_scored_candidates	fraction_of_filtered_examples
+both_external_supported_but_failed_null_gate	2706	0.6280248396156689	1	2706	External support, null failure	0.6404733727810651	0.8180169286577993
+failed_all_three_null_gates	562	0.2598768451957295	0	0	Failed all null gates	0.13301775147928993	0.16989117291414751
+raw_score_supported_but_no_external_method_support	36	0.4847240277777778	1	0	Raw score, no external support	0.008520710059171597	0.010882708585247884
+v2_high_downgraded_without_both_external_methods	4	0.77427025	3	0	v2 high downgraded	0.0009467455621301775	0.0012091898428053204

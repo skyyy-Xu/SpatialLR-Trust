@@ -1,0 +1,2 @@
+method	dataset	sample_id	cancer	platform	spots_used	genes_used	compartments_used	lr_pairs_requested	lr_pairs_available	candidate_rows	expr_prop	min_cells	n_perms
+liana_cellphonedb_pilot	GSE300445	GSM9060732_AdjIII-0019	melanoma	Visium	2539	18085	3	15	15	120	0.05	3	100

@@ -1,0 +1,2 @@
+rows	samples	technical_replicates	method_detections	score_values_present	tier	primary_metrics_excluded
+60	3	15	0	0	out_of_scope_fixed_fake	1

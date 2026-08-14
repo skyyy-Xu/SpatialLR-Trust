@@ -1,0 +1,5 @@
+dataset	cancer	candidate_rows	cellchat_supported_rows	cellchat_support_fraction	all_null_gates_pass_rows	cellchat_and_all_null_pass_rows	cellchat_fraction_among_null_pass	all_four_supported_rows	at_least_three_methods_rows	mean_v3_score
+GSE283052	colorectal cancer	1069	225	0.21047708138447146	75	51	0.68	219	726	0.566388
+GSE292299	DLBCL	205	11	0.05365853658536585	13	9	0.6923076923076923	11	56	0.4700197658536585
+GSE292299	NSCLC	2602	445	0.17102229054573406	108	76	0.7037037037037037	434	1844	0.5644663616448886
+GSE300445	melanoma	349	134	0.3839541547277937	29	23	0.7931034482758621	133	316	0.6545135558739255

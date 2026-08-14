@@ -1,0 +1,9 @@
+sample_id	metric_universe	scorer	score_column	rows	positives	negatives	auroc	average_precision	top_k	top_k_selected	top_k_positives	precision_at_k	recall_at_k	tie_break
+all	common_three_method_primary	commot	commot_score	510	390	120	0.5828525641025641	0.8088636989307755	4	4	4	1.0	0.010256410256410256	sample_replicate_condition_axis
+all	common_three_method_primary	liana	liana_score	510	390	120	0.5526709401709402	0.8130739574632719	4	4	4	1.0	0.010256410256410256	sample_replicate_condition_axis
+all	common_three_method_primary	cellchat	cellchat_score	510	390	120	0.4944017094017094	0.7549123527592462	4	4	3	0.75	0.007692307692307693	sample_replicate_condition_axis
+all	common_three_method_primary	spatiallr_trust	spatiallr_trust_score_f5_full	510	390	120	0.6207905982905982	0.8238136752990289	4	4	4	1.0	0.010256410256410256	sample_replicate_condition_axis
+all	method_scoped_resource	commot	commot_score	1020	780	240	0.5501255341880342	0.7688390432749307	4	4	4	1.0	0.005128205128205128	sample_replicate_condition_axis
+all	method_scoped_resource	liana	liana_score	510	390	120	0.5526709401709402	0.8130739574632719	4	4	4	1.0	0.010256410256410256	sample_replicate_condition_axis
+all	method_scoped_resource	cellchat	cellchat_score	1020	780	240	0.4767467948717949	0.7432993756415114	4	4	3	0.75	0.0038461538461538464	sample_replicate_condition_axis
+all	all_resource_primary	spatiallr_trust	spatiallr_trust_score_f5_full	1020	780	240	0.5490918803418804	0.7810899403704055	4	4	4	1.0	0.005128205128205128	sample_replicate_condition_axis

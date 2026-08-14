@@ -1,0 +1,9 @@
+source_id	source_type	url	status	title_or_note
+GSE292299	geo_series	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE292299	Public on Jun 09, 2026	Conserved principles of spatial biology define tumor heterogeneity and immunotherapy sensitivity
+PUBMED_EXACT_TITLE_SEARCH	pubmed_eutils_query	https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi	ok	Exact-title query returned 0 PMID(s).
+GSM8855712	geo_sample	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM8855712	Public on Jun 09, 2026	NSCLC, Patient 10, Spatial Transcriptomics (Visium)
+GSM8855718	geo_sample	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM8855718	Public on Jun 09, 2026	NSCLC, Patient 16, Spatial Transcriptomics (Visium)
+GSM8855713	geo_sample	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM8855713	Public on Jun 09, 2026	NSCLC, Patient 11, Spatial Transcriptomics (Visium)
+GSM8855706	geo_sample	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM8855706	Public on Jun 09, 2026	NSCLC, Patient 4, Spatial Transcriptomics (Visium)
+GSM8855717	geo_sample	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM8855717	Public on Jun 09, 2026	NSCLC, Patient 15, Spatial Transcriptomics (Visium)
+GSM8855711	geo_sample	https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM8855711	Public on Jun 09, 2026	NSCLC, Patient 9, Spatial Transcriptomics (Visium)

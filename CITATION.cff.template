@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Citation metadata is pending final author approval."
+title: "SpatialLR-Trust: an auditable operational prioritization workflow for spatial ligand-receptor candidates in tumour transcriptomics"
+type: software
+version: 0.1.0-review
+date-released: 2026-08-14
+repository-code: "https://github.com/skyyy-Xu/SpatialLR-Trust"
+authors:
+  - name: "SpatialLR-Trust authors (order pending)"

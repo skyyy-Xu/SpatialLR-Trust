@@ -1,0 +1,5 @@
+target_gap_reason	rows	mean_v3_score	target_gap_label	fraction_of_high_v3
+target_supported	134	0.909994	Target-supported high v3	0.6146788990825688
+low_percentile_and_low_enrichment	50	0.89769	Low percentile + enrichment	0.22935779816513763
+low_receiver_enrichment	31	0.906226	Low receiver enrichment	0.14220183486238533
+low_receiver_percentile	3	0.904594	Low receiver percentile	0.013761467889908258
