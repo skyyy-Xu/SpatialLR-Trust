@@ -2,7 +2,7 @@
 
 SpatialLR-Trust is an auditable **operational prioritization and failure-analysis workflow** for spatial ligand-receptor candidates. It harmonizes candidate calls from multiple inference routes and evaluates marker-baseline candidates with finite spatial-coordinate, label-permutation and expression-matched fake-pair screens, descriptive recurrence, annotation-design priors and external-method consistency.
 
-> **Review status:** this is a private author-review snapshot derived from source commit `413563b6c2e86abbac6286d2a8c3b2fdd2db31e8`. It is not yet a public software release. Author metadata, the final licence, the external archive DOI and independent off-cluster execution remain pending corresponding-author approval.
+> **Release status:** this is a public review snapshot derived from source commit `413563b6c2e86abbac6286d2a8c3b2fdd2db31e8`. It is not yet a versioned software release. Author metadata, the final licence, the external archive DOI and independent off-cluster execution remain pending corresponding-author approval.
 
 ## Current evidence
 
@@ -44,10 +44,10 @@ Raw GEO data are not redistributed. Dataset accessions, source links and analyti
 
 ## Citation and licence
 
-Citation metadata and licensing are proposals for author review. See `CITATION.cff.template`, `LICENSE_PROPOSAL.md` and `docs/RELEASE_REVIEW_CHECKLIST.md`. Do not redistribute this private snapshot before the owners approve the public release.
+Citation metadata and licensing remain proposals for author review. See `CITATION.cff.template`, `LICENSE_PROPOSAL.md` and `docs/RELEASE_REVIEW_CHECKLIST.md`. The repository is publicly viewable, but no reuse licence is granted until the owners approve and add the final licence files.
 
 ## Source
 
-- Review repository: https://github.com/skyyy-Xu/SpatialLR-Trust
+- Public repository: https://github.com/skyyy-Xu/SpatialLR-Trust
 - Authoritative internal source commit: `413563b6c2e86abbac6286d2a8c3b2fdd2db31e8`
-- Snapshot date: 2026-08-14
+- Snapshot date: 2026-08-15
